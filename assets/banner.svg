@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <title>Obsidian Vault — хранилище под ключ за 3 ₽</title>
+  <style>
+    text { font-family: Segoe UI, Inter, system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e0b1a"/>
+      <stop offset=".55" stop-color="#1a1233"/>
+      <stop offset="1" stop-color="#2b1753"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".82" cy=".5" r=".45">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="pill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="340" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#glow)"/>
+
+    <!-- граф связей -->
+    <g stroke="#a78bfa" stroke-opacity=".35" stroke-width="1.2">
+      <line x1="860" y1="78" x2="925" y2="115"/>
+      <line x1="1122" y1="70" x2="1050" y2="120"/>
+      <line x1="1150" y1="205" x2="1030" y2="250"/>
+      <line x1="1100" y1="300" x2="1030" y2="250"/>
+      <line x1="848" y1="292" x2="915" y2="240"/>
+      <line x1="815" y1="182" x2="925" y2="115"/>
+      <line x1="815" y1="182" x2="915" y2="240"/>
+      <line x1="860" y1="78" x2="815" y2="182"/>
+      <line x1="1122" y1="70" x2="1150" y2="205"/>
+      <line x1="1150" y1="205" x2="1100" y2="300"/>
+      <line x1="860" y1="78" x2="760" y2="40"/>
+      <line x1="848" y1="292" x2="760" y2="315"/>
+      <line x1="1122" y1="70" x2="1175" y2="28"/>
+    </g>
+    <g fill="#c4b5fd">
+      <circle cx="860" cy="78" r="5"/>
+      <circle cx="1122" cy="70" r="6"/>
+      <circle cx="1150" cy="205" r="5"/>
+      <circle cx="1100" cy="300" r="4"/>
+      <circle cx="848" cy="292" r="5"/>
+      <circle cx="815" cy="182" r="6"/>
+      <circle cx="760" cy="40" r="3" fill-opacity=".6"/>
+      <circle cx="760" cy="315" r="3" fill-opacity=".6"/>
+      <circle cx="1175" cy="28" r="3" fill-opacity=".6"/>
+    </g>
+
+    <!-- кристалл -->
+    <g stroke="#ede9fe" stroke-opacity=".35" stroke-width="1" stroke-linejoin="round">
+      <polygon points="982,172 980,58 1050,120" fill="#c4b5fd"/>
+      <polygon points="982,172 1050,120 1030,250" fill="#8b5cf6"/>
+      <polygon points="982,172 1030,250 975,292" fill="#5b21b6"/>
+      <polygon points="982,172 975,292 915,240" fill="#6d28d9"/>
+      <polygon points="982,172 915,240 925,115" fill="#7c3aed"/>
+      <polygon points="982,172 925,115 980,58" fill="#a78bfa"/>
+    </g>
+
+    <!-- текст -->
+    <text x="84" y="112" font-size="16" font-weight="600" letter-spacing="6" fill="#a78bfa">OBSIDIAN VAULT</text>
+    <text x="82" y="178" font-size="52" font-weight="800" fill="#ffffff">Хранилище под ключ</text>
+    <text x="84" y="222" font-size="22" fill="#c4b5fd">Структура · шаблоны · плагины · дашборд</text>
+
+    <rect x="84" y="250" width="232" height="46" rx="23" fill="url(#pill)"/>
+    <text x="200" y="280" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">3 ₽ за хранилище</text>
+  </g>
+</svg>

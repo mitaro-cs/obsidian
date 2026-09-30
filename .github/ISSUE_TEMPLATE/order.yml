@@ -1,0 +1,62 @@
+name: 🛒 Заказать хранилище
+description: Хранилище Obsidian под ключ — 3 ₽
+title: "Заказ: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Заполни форму — отвечу в комментариях и пришлю реквизиты для оплаты.
+        **Issues видны всем**: не указывай телефон и другие личные данные.
+
+  - type: dropdown
+    id: purpose
+    attributes:
+      label: Для чего хранилище
+      options:
+        - Учёба
+        - Работа
+        - Личные заметки
+        - Всё сразу
+    validations:
+      required: true
+
+  - type: textarea
+    id: topics
+    attributes:
+      label: Разделы
+      description: Какие предметы, проекты и области должны быть в хранилище.
+      placeholder: "Например: сети (CCNA), Linux, английский, спорт"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: devices
+    attributes:
+      label: Устройства
+      options:
+        - label: Windows
+        - label: macOS
+        - label: Linux
+        - label: Android
+        - label: iOS
+
+  - type: dropdown
+    id: sync
+    attributes:
+      label: Синхронизация
+      options:
+        - Не нужна
+        - Git
+        - Syncthing
+        - iCloud
+        - Obsidian Sync
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Подтверждение
+      options:
+        - label: Понимаю, что стоимость — 3 ₽ и хранилище собирается индивидуально
+          required: true
