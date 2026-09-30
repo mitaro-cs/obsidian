@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Obsidian Vault — хранилище под ключ за 3 ₽" width="100%">
+<img src="assets/banner.svg" alt="Obsidian Vault — хранилище под ключ за 3 000 ₽" width="100%">
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/%D1%86%D0%B5%D0%BD%D0%B0-3%20%E2%82%BD-7f6df2?style=for-the-badge" alt="Цена: 3 ₽">
+<img src="https://img.shields.io/badge/%D1%86%D0%B5%D0%BD%D0%B0-3%20000%20%E2%82%BD-7f6df2?style=for-the-badge" alt="Цена: 3 000 ₽">
 <img src="https://img.shields.io/badge/Obsidian-ready-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
 <img src="https://img.shields.io/badge/Win%20%C2%B7%20macOS%20%C2%B7%20Linux%20%C2%B7%20iOS%20%C2%B7%20Android-2b2b2b?style=for-the-badge" alt="Платформы">
 
@@ -184,14 +184,14 @@ graph LR
 | Объём и устройство — как у моего хранилища | ✓ |
 | Разделы под твои предметы и проекты | ✓ |
 | Синхронизация и инструкция «Начни здесь» | ✓ |
-| **Итого** | **3 ₽** |
+| **Итого** | **3 000 ₽** |
 
 </div>
 
 ## 🛒 Как заказать
 
 1. **Оставь заявку** — [открой Issue по форме «Заказ»](https://github.com/mitaro-cs/obsidian/issues/new?template=order.yml): для чего хранилище, какие разделы, какие устройства.
-2. **Оплати 3 ₽** — реквизиты пришлю в ответ на заявку.
+2. **Оплати 3 000 ₽** — реквизиты пришлю в ответ на заявку.
 3. **Получи хранилище** — архив с готовой папкой. Распаковал → Obsidian → «Открыть папку как хранилище».
 
 > [!NOTE]

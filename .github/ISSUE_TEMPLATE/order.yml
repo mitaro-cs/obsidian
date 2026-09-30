@@ -1,5 +1,5 @@
 name: 🛒 Заказать хранилище
-description: Хранилище Obsidian под ключ — 3 ₽
+description: Хранилище Obsidian под ключ — 3 000 ₽
 title: "Заказ: "
 body:
   - type: markdown
@@ -58,5 +58,5 @@ body:
     attributes:
       label: Подтверждение
       options:
-        - label: Понимаю, что стоимость — 3 ₽ и хранилище собирается индивидуально
+        - label: Понимаю, что стоимость — 3 000 ₽ и хранилище собирается индивидуально
           required: true
