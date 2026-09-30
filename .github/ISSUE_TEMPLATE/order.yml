@@ -1,33 +1,27 @@
 name: 🛒 Заказать хранилище
-description: Хранилище Obsidian под ключ — 3 000 ₽
+description: Хранилище Obsidian под ключ — 3 000 ₽
 title: "Заказ: "
 body:
   - type: markdown
     attributes:
       value: |
         Заполни форму — отвечу в комментариях и пришлю реквизиты для оплаты.
-        **Issues видны всем**: не указывай телефон и другие личные данные.
+        **Issues видны всем**: не указывай телефон и другие личные данные. Для личного — Telegram [@treadways](https://t.me/treadways).
 
-  - type: dropdown
-    id: purpose
+  - type: checkboxes
+    id: services
     attributes:
-      label: Для чего хранилище
+      label: Что заказываешь
       options:
-        - Учёба
-        - Работа
-        - Личные заметки
-        - Всё сразу
-    validations:
-      required: true
+        - label: Хранилище под ключ — 3 000 ₽
+        - label: Кинотека — по запросу
+        - label: Плагин на заказ — 1 500–5 000 ₽
 
   - type: textarea
-    id: topics
+    id: plugin
     attributes:
-      label: Разделы
-      description: Какие предметы, проекты и области должны быть в хранилище.
-      placeholder: "Например: сети (CCNA), Linux, английский, спорт"
-    validations:
-      required: true
+      label: Если нужен плагин — что он должен делать
+      placeholder: "Например: кнопка, которая создаёт заметку фильма по ссылке"
 
   - type: checkboxes
     id: devices
@@ -40,23 +34,17 @@ body:
         - label: Android
         - label: iOS
 
-  - type: dropdown
-    id: sync
+  - type: input
+    id: telegram
     attributes:
-      label: Синхронизация
-      options:
-        - Не нужна
-        - Git
-        - Syncthing
-        - iCloud
-        - Obsidian Sync
-    validations:
-      required: true
+      label: Telegram для связи
+      description: Необязательно — можно общаться прямо здесь.
+      placeholder: "@username"
 
   - type: checkboxes
     id: confirm
     attributes:
       label: Подтверждение
       options:
-        - label: Понимаю, что стоимость — 3 000 ₽ и хранилище собирается индивидуально
+        - label: Понимаю, что хранилище передаётся без заметок автора, а опции оплачиваются отдельно
           required: true
