@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
-  <title>Obsidian Vault — хранилище под ключ за 3 ₽</title>
+  <title>Obsidian Vault — хранилище под ключ за 3 000 ₽</title>
   <style>
     text { font-family: Segoe UI, Inter, system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif; }
   </style>
@@ -67,7 +67,7 @@
     <text x="82" y="178" font-size="52" font-weight="800" fill="#ffffff">Хранилище под ключ</text>
     <text x="84" y="222" font-size="22" fill="#c4b5fd">Структура · шаблоны · плагины · дашборд</text>
 
-    <rect x="84" y="250" width="232" height="46" rx="23" fill="url(#pill)"/>
-    <text x="200" y="280" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">3 ₽ за хранилище</text>
+    <rect x="84" y="250" width="292" height="46" rx="23" fill="url(#pill)"/>
+    <text x="230" y="280" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">3 000 ₽ за хранилище</text>
   </g>
 </svg>
