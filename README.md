@@ -8,9 +8,9 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5-3%20000%20%E2%82%BD-d4e57b?style=for-the-badge&labelColor=111111" alt="Хранилище: 3 000 ₽">
-<a href="https://t.me/treadways"><img src="https://img.shields.io/badge/Telegram-@treadways-7cc4ef?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111111" alt="Telegram @treadways"></a>
-<img src="https://img.shields.io/badge/Obsidian-ready-ececec?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=111111" alt="Obsidian">
+<img src="https://img.shields.io/badge/%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5-3%20000%20%E2%82%BD-c2bba5?style=for-the-badge&labelColor=1e1a18" alt="Хранилище: 3 000 ₽">
+<a href="https://t.me/treadways"><img src="https://img.shields.io/badge/Telegram-@treadways-a9c1cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1e1a18" alt="Telegram @treadways"></a>
+<img src="https://img.shields.io/badge/Obsidian-ready-8a6a58?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=1e1a18" alt="Obsidian">
 
 [Что входит](#-что-входит) · [Примеры](#-примеры) · [Цены](#-цены) · [Заказать](#-как-заказать) · [FAQ](#-faq)
 
@@ -31,11 +31,11 @@
 
 | | |
 |:--|:--|
-| 🏠 **Главная** | Дашборд из виджетов: часы и дата, день года, календарь заметок за месяц, ближайший день рождения, учёба на неделю, недавние заметки |
+| 🏠 **Главная** | Дашборд из виджетов: часы и дата, день года, календарь заметок за месяц, ближайший день рождения, проекты, учёба на неделю, недавние заметки |
 | 🎓 **Учёба** | Предметы с лекциями, практиками и лабораторными, метки LEC · PRA · LAB, прогресс за неделю |
 | 🗂 **Структура** | 9 разделов с иконками — от Personal и University до Knowledge Library и Information Base |
 | 📝 **Шаблоны** | Готовые заготовки на Templater: новая заметка создаётся уже с датой, предметом и разметкой |
-| 🎨 **Оформление** | Своя тёмная тема: чёрный, голубой и салатовый, карточки-виджеты, иконки разделов |
+| 🎨 **Оформление** | Своя тёмная тема в тёплых тонах: пыльно-голубой, хаки, замша и крем, карточки-виджеты, иконки разделов |
 | ⚡ **Минимум плагинов** | Встроенные плагины Obsidian + три проверенных: быстро запускается и не ломается после обновлений |
 
 ### 🗂 Структура
@@ -46,7 +46,8 @@
 ├── 01 - Personal/
 ├── 02 - University/            ← предметы, лекции, практики, лабы
 ├── 03 - Journal/
-├── 04 - Workspace/
+├── 04 - Workspace/             ← проекты
+│   └── Campus/
 ├── 05 - Knowledge Library/
 ├── 06 - Information Sphere/
 ├── 97 - Rare Usage/
@@ -67,7 +68,7 @@
 
 <div align="center">
 <img src="assets/preview.svg" alt="Главная страница хранилища" width="100%">
-<br><sub>Главная: виджеты дня, учёба и недавние заметки. Справа — кинотека (отдельная опция)</sub>
+<br><sub>Главная: виджеты дня, проект Campus, учёба и недавние заметки. Справа — кинотека (отдельная опция)</sub>
 </div>
 
 <br>
@@ -142,6 +143,8 @@ graph LR
   H --> U[02 - University]
   H --> J[03 - Journal]
   H --> K[05 - Knowledge Library]
+  H --> W[04 - Workspace]
+  W --> C[Campus]
   U --> E[Электротехника]
   U --> T[ТерВер]
   E --> L1[Лекция 03.09]
@@ -149,7 +152,7 @@ graph LR
   J --> L1
   K --> O[OSPF]
   T --> O
-  classDef hub fill:#7cc4ef,stroke:#d4e57b,color:#0d2b4a
+  classDef hub fill:#a9c1cc,stroke:#c2bba5,color:#1c2b33
 ```
 
 </details>
