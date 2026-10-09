@@ -1,241 +1,259 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
   <title>Главная страница хранилища (макет)</title>
   <style>text { font-family: Inter, Segoe UI, SF Pro Display, -apple-system, Helvetica Neue, Roboto, Arial, sans-serif; }</style>
-  <clipPath id="win"><rect width="1200" height="780" rx="18"/></clipPath>
-  <g clip-path="url(#win)">
-  <rect x="0" y="0" width="1200" height="780" rx="0" fill="#000"/>
-  <rect x="440" y="9" width="210" height="30" rx="15" fill="#151515" stroke="#2a2a2a"/>
-  <text x="458" y="29" font-size="13" font-weight="500" fill="#dcdcdc">01 - Главная</text>
-  <path d="M626 19 L634 27 M634 19 L626 27" stroke="#9a9a9a" stroke-width="1.6" stroke-linecap="round"/>
-  <rect x="12" y="52" width="230" height="440" rx="14" fill="#111111" stroke="#1f1f1f"/>
-  <g fill="none" stroke="#9a9a9a" stroke-width="1.6" stroke-linejoin="round"><path d="M30 68 h6 l2 3 h8 v10 h-16 z"/><path d="M62 67 h10 v15 l-5 -4 l-5 4 z"/><circle cx="98" cy="74" r="5.5"/><path d="M102 78 l4 4" stroke-linecap="round"/></g>
-  <path d="M27 109 L31 113 L27 117" fill="none" stroke="#6f6f6f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="41" y="107" width="13" height="12" rx="2.5" fill="none" stroke="#cfcfcf" stroke-width="1.4"/>
-  <line x1="44" y1="111" x2="51" y2="111" stroke="#cfcfcf" stroke-width="1.2"/>
-  <text x="64" y="118" font-size="13.5" font-weight="500" fill="#e6e6e6">01 - Personal</text>
-  <path d="M27 149 L31 153 L27 157" fill="none" stroke="#6f6f6f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="41" y="147" width="13" height="12" rx="2.5" fill="none" stroke="#cfcfcf" stroke-width="1.4"/>
-  <line x1="44" y1="151" x2="51" y2="151" stroke="#cfcfcf" stroke-width="1.2"/>
-  <text x="64" y="158" font-size="13.5" font-weight="500" fill="#e6e6e6">02 - University</text>
-  <path d="M27 189 L31 193 L27 197" fill="none" stroke="#6f6f6f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="41" y="187" width="13" height="12" rx="2.5" fill="none" stroke="#cfcfcf" stroke-width="1.4"/>
-  <line x1="44" y1="191" x2="51" y2="191" stroke="#cfcfcf" stroke-width="1.2"/>
-  <text x="64" y="198" font-size="13.5" font-weight="500" fill="#e6e6e6">03 - Journal</text>
-  <path d="M27 229 L31 233 L27 237" fill="none" stroke="#6f6f6f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="41" y="227" width="13" height="12" rx="2.5" fill="none" stroke="#cfcfcf" stroke-width="1.4"/>
-  <line x1="44" y1="231" x2="51" y2="231" stroke="#cfcfcf" stroke-width="1.2"/>
-  <text x="64" y="238" font-size="13.5" font-weight="500" fill="#e6e6e6">04 - Workspace</text>
-  <path d="M27 269 L31 273 L27 277" fill="none" stroke="#6f6f6f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="41" y="267" width="13" height="12" rx="2.5" fill="none" stroke="#cfcfcf" stroke-width="1.4"/>
-  <line x1="44" y1="271" x2="51" y2="271" stroke="#cfcfcf" stroke-width="1.2"/>
-  <text x="64" y="278" font-size="13.5" font-weight="500" fill="#e6e6e6">05 - Knowledge Library</text>
-  <path d="M27 309 L31 313 L27 317" fill="none" stroke="#6f6f6f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="41" y="307" width="13" height="12" rx="2.5" fill="none" stroke="#cfcfcf" stroke-width="1.4"/>
-  <line x1="44" y1="311" x2="51" y2="311" stroke="#cfcfcf" stroke-width="1.2"/>
-  <text x="64" y="318" font-size="13.5" font-weight="500" fill="#e6e6e6">06 - Information Sphere</text>
-  <path d="M27 349 L31 353 L27 357" fill="none" stroke="#6f6f6f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="41" y="347" width="13" height="12" rx="2.5" fill="none" stroke="#cfcfcf" stroke-width="1.4"/>
-  <line x1="44" y1="351" x2="51" y2="351" stroke="#cfcfcf" stroke-width="1.2"/>
-  <text x="64" y="358" font-size="13.5" font-weight="500" fill="#e6e6e6">97 - Rare Usage</text>
-  <path d="M27 389 L31 393 L27 397" fill="none" stroke="#6f6f6f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="41" y="387" width="13" height="12" rx="2.5" fill="none" stroke="#cfcfcf" stroke-width="1.4"/>
-  <line x1="44" y1="391" x2="51" y2="391" stroke="#cfcfcf" stroke-width="1.2"/>
-  <text x="64" y="398" font-size="13.5" font-weight="500" fill="#e6e6e6">98 - Obsidian Tools</text>
-  <path d="M27 429 L31 433 L27 437" fill="none" stroke="#6f6f6f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="41" y="427" width="13" height="12" rx="2.5" fill="none" stroke="#cfcfcf" stroke-width="1.4"/>
-  <line x1="44" y1="431" x2="51" y2="431" stroke="#cfcfcf" stroke-width="1.2"/>
-  <text x="64" y="438" font-size="13.5" font-weight="500" fill="#e6e6e6">99 - Information Base</text>
-  <rect x="12" y="504" width="230" height="264" rx="14" fill="#0c0c0c" stroke="#1f1f1f"/>
-  <g stroke="#8a8a8a" stroke-opacity=".22" stroke-width=".6"><line x1="56.9" y1="691.6" x2="40.0" y2="694.2"/><line x1="83.7" y1="646.9" x2="92.7" y2="593.8"/><line x1="112.7" y1="660.8" x2="74.1" y2="697.4"/><line x1="37.7" y1="594.3" x2="56.0" y2="604.2"/><line x1="76.6" y1="691.6" x2="116.0" y2="651.9"/><line x1="109.8" y1="600.9" x2="142.5" y2="582.7"/><line x1="64.1" y1="595.7" x2="92.3" y2="582.1"/><line x1="95.9" y1="689.0" x2="104.2" y2="658.6"/><line x1="149.6" y1="613.5" x2="183.3" y2="641.5"/><line x1="169.0" y1="709.4" x2="105.0" y2="700.9"/><line x1="64.1" y1="595.7" x2="77.8" y2="655.1"/><line x1="67.8" y1="713.1" x2="106.6" y2="686.3"/><line x1="28.3" y1="637.6" x2="73.9" y2="675.1"/><line x1="113.7" y1="626.8" x2="148.5" y2="599.9"/><line x1="153.3" y1="640.1" x2="93.0" y2="632.9"/><line x1="100.5" y1="683.7" x2="160.2" y2="662.3"/><line x1="192.3" y1="616.8" x2="192.1" y2="625.9"/><line x1="22.5" y1="623.3" x2="79.8" y2="633.5"/><line x1="177.0" y1="587.5" x2="192.3" y2="616.8"/><line x1="99.3" y1="673.3" x2="104.2" y2="658.6"/><line x1="153.3" y1="640.1" x2="201.8" y2="642.1"/><line x1="106.0" y1="620.0" x2="136.7" y2="681.4"/><line x1="172.5" y1="684.4" x2="192.1" y2="625.9"/><line x1="99.3" y1="673.3" x2="142.2" y2="652.3"/><line x1="110.4" y1="596.9" x2="100.9" y2="641.3"/><line x1="112.3" y1="702.0" x2="75.7" y2="688.2"/><line x1="95.0" y1="693.4" x2="60.4" y2="634.5"/><line x1="66.8" y1="569.6" x2="50.9" y2="633.2"/><line x1="167.3" y1="672.4" x2="194.4" y2="670.5"/><line x1="84.2" y1="701.4" x2="34.0" y2="676.2"/><line x1="116.1" y1="573.6" x2="113.7" y2="626.8"/><line x1="125.5" y1="572.3" x2="96.6" y2="609.3"/><line x1="114.6" y1="678.8" x2="154.8" y2="694.8"/><line x1="50.7" y1="654.2" x2="48.8" y2="650.8"/><line x1="37.7" y1="594.3" x2="55.9" y2="618.8"/><line x1="106.0" y1="620.0" x2="132.2" y2="668.6"/><line x1="94.2" y1="679.8" x2="35.1" y2="683.0"/><line x1="93.0" y1="632.9" x2="113.7" y2="626.8"/><line x1="136.5" y1="595.7" x2="107.2" y2="553.9"/><line x1="167.8" y1="571.1" x2="192.3" y2="616.8"/><line x1="100.9" y1="619.0" x2="132.2" y2="668.6"/><line x1="161.7" y1="622.6" x2="194.4" y2="670.5"/><line x1="40.0" y1="694.2" x2="62.5" y2="682.5"/><line x1="145.8" y1="664.5" x2="134.1" y2="691.1"/><line x1="148.7" y1="635.9" x2="160.2" y2="662.3"/><line x1="183.2" y1="679.6" x2="140.6" y2="701.4"/><line x1="156.5" y1="655.9" x2="110.5" y2="640.4"/><line x1="59.2" y1="608.8" x2="91.1" y2="570.3"/><line x1="59.2" y1="608.8" x2="92.3" y2="582.1"/></g>
-  <g fill="#a3a3a3" fill-opacity=".75"><circle cx="99.3" cy="673.3" r="1.3"/><circle cx="100.9" cy="619.0" r="1.3"/><circle cx="59.4" cy="627.0" r="1.3"/><circle cx="179.9" cy="664.4" r="1.3"/><circle cx="177.5" cy="654.8" r="1.3"/><circle cx="142.2" cy="652.3" r="1.3"/><circle cx="38.3" cy="679.9" r="1.3"/><circle cx="148.3" cy="671.8" r="1.3"/><circle cx="50.9" cy="572.9" r="1.3"/><circle cx="62.5" cy="611.8" r="1.3"/><circle cx="136.5" cy="636.9" r="1.3"/><circle cx="148.5" cy="599.9" r="1.3"/><circle cx="136.3" cy="665.9" r="1.3"/><circle cx="84.8" cy="720.9" r="1.3"/><circle cx="146.9" cy="706.4" r="1.3"/><circle cx="78.4" cy="595.1" r="1.3"/><circle cx="93.0" cy="632.9" r="1.3"/><circle cx="156.5" cy="655.9" r="1.3"/><circle cx="89.4" cy="583.1" r="1.3"/><circle cx="87.2" cy="707.6" r="1.3"/><circle cx="65.7" cy="655.2" r="1.3"/><circle cx="138.1" cy="562.8" r="1.3"/><circle cx="118.7" cy="712.7" r="1.3"/><circle cx="27.3" cy="625.8" r="1.3"/><circle cx="109.4" cy="588.9" r="1.3"/><circle cx="148.7" cy="635.9" r="1.3"/><circle cx="43.3" cy="681.1" r="1.3"/><circle cx="154.8" cy="694.8" r="1.3"/><circle cx="192.1" cy="659.1" r="1.3"/><circle cx="122.6" cy="567.6" r="1.3"/><circle cx="154.1" cy="602.1" r="1.3"/><circle cx="91.1" cy="570.3" r="1.3"/><circle cx="59.2" cy="608.8" r="1.3"/><circle cx="166.0" cy="561.2" r="1.3"/><circle cx="38.8" cy="652.7" r="1.3"/><circle cx="190.6" cy="669.9" r="1.3"/><circle cx="58.4" cy="563.6" r="1.3"/><circle cx="138.4" cy="593.9" r="1.3"/><circle cx="56.9" cy="691.6" r="1.3"/><circle cx="180.6" cy="649.2" r="1.3"/><circle cx="132.2" cy="668.6" r="1.3"/><circle cx="194.4" cy="670.5" r="1.3"/><circle cx="148.8" cy="674.7" r="1.3"/><circle cx="46.6" cy="696.7" r="1.3"/><circle cx="172.3" cy="671.2" r="1.3"/><circle cx="30.1" cy="612.4" r="1.3"/><circle cx="153.6" cy="559.1" r="1.3"/><circle cx="105.0" cy="700.9" r="1.3"/><circle cx="59.0" cy="710.0" r="1.3"/><circle cx="152.0" cy="630.2" r="1.3"/><circle cx="136.7" cy="681.4" r="1.3"/><circle cx="123.0" cy="706.5" r="1.3"/><circle cx="74.3" cy="613.9" r="1.3"/><circle cx="178.1" cy="641.6" r="1.3"/><circle cx="66.8" cy="692.9" r="1.3"/><circle cx="192.3" cy="616.8" r="1.3"/><circle cx="40.9" cy="632.7" r="1.3"/><circle cx="106.0" cy="620.0" r="1.3"/><circle cx="184.4" cy="590.0" r="1.3"/><circle cx="176.4" cy="579.2" r="1.3"/><circle cx="68.7" cy="677.9" r="1.3"/><circle cx="176.8" cy="686.3" r="1.3"/><circle cx="139.0" cy="649.5" r="1.3"/><circle cx="125.9" cy="677.4" r="1.3"/><circle cx="104.2" cy="658.6" r="1.3"/><circle cx="153.3" cy="640.1" r="1.3"/><circle cx="162.5" cy="674.5" r="1.3"/><circle cx="204.6" cy="654.3" r="1.3"/><circle cx="88.1" cy="615.7" r="1.3"/><circle cx="115.2" cy="696.6" r="1.3"/><circle cx="93.9" cy="665.4" r="1.3"/><circle cx="171.7" cy="562.2" r="1.3"/><circle cx="50.7" cy="654.2" r="1.3"/><circle cx="142.3" cy="655.8" r="1.3"/><circle cx="88.8" cy="681.3" r="1.3"/><circle cx="134.3" cy="606.1" r="1.3"/><circle cx="208.6" cy="653.5" r="1.3"/><circle cx="79.8" cy="633.5" r="1.3"/><circle cx="100.8" cy="635.8" r="1.3"/><circle cx="22.5" cy="623.3" r="1.3"/><circle cx="168.3" cy="579.4" r="1.3"/><circle cx="111.9" cy="698.0" r="1.3"/><circle cx="158.0" cy="713.1" r="1.3"/><circle cx="33.0" cy="622.8" r="1.3"/><circle cx="94.2" cy="679.8" r="1.3"/><circle cx="151.9" cy="551.8" r="1.3"/><circle cx="167.8" cy="571.1" r="1.3"/><circle cx="150.4" cy="564.9" r="1.3"/><circle cx="126.1" cy="708.3" r="1.3"/><circle cx="105.9" cy="652.9" r="1.3"/><circle cx="166.0" cy="648.9" r="1.3"/><circle cx="111.4" cy="719.8" r="1.3"/><circle cx="177.8" cy="622.7" r="1.3"/><circle cx="204.1" cy="603.2" r="1.3"/><circle cx="171.7" cy="623.8" r="1.3"/><circle cx="124.4" cy="684.9" r="1.3"/><circle cx="130.3" cy="681.0" r="1.3"/><circle cx="51.2" cy="576.0" r="1.3"/><circle cx="151.8" cy="584.0" r="1.3"/><circle cx="66.8" cy="569.6" r="1.3"/><circle cx="183.2" cy="679.6" r="1.3"/><circle cx="187.6" cy="594.4" r="1.3"/><circle cx="116.1" cy="573.6" r="1.3"/><circle cx="153.0" cy="716.8" r="1.3"/><circle cx="73.4" cy="714.6" r="1.3"/><circle cx="175.4" cy="629.3" r="1.3"/><circle cx="40.0" cy="694.2" r="1.3"/><circle cx="109.8" cy="600.9" r="1.3"/><circle cx="142.1" cy="666.7" r="1.3"/><circle cx="187.3" cy="591.5" r="1.3"/><circle cx="169.0" cy="709.4" r="1.3"/><circle cx="193.2" cy="630.4" r="1.3"/><circle cx="74.1" cy="697.4" r="1.3"/><circle cx="123.8" cy="648.4" r="1.3"/><circle cx="192.1" cy="625.9" r="1.3"/><circle cx="24.5" cy="624.6" r="1.3"/><circle cx="34.0" cy="676.2" r="1.3"/><circle cx="136.3" cy="600.9" r="1.3"/><circle cx="115.4" cy="692.0" r="1.3"/><circle cx="120.4" cy="713.4" r="1.3"/><circle cx="112.3" cy="702.0" r="1.3"/><circle cx="178.2" cy="707.2" r="1.3"/><circle cx="76.6" cy="691.6" r="1.3"/><circle cx="36.9" cy="594.3" r="1.3"/><circle cx="35.2" cy="684.0" r="1.3"/><circle cx="46.0" cy="639.3" r="1.3"/><circle cx="103.0" cy="638.1" r="1.3"/><circle cx="77.8" cy="655.1" r="1.3"/><circle cx="201.8" cy="642.1" r="1.3"/><circle cx="147.0" cy="698.4" r="1.3"/><circle cx="104.9" cy="569.3" r="1.3"/><circle cx="84.2" cy="701.4" r="1.3"/><circle cx="36.1" cy="611.0" r="1.3"/><circle cx="172.5" cy="684.4" r="1.3"/><circle cx="116.5" cy="690.5" r="1.3"/><circle cx="125.5" cy="572.3" r="1.3"/><circle cx="38.5" cy="608.3" r="1.3"/><circle cx="170.5" cy="606.6" r="1.3"/><circle cx="64.1" cy="595.7" r="1.3"/><circle cx="36.3" cy="633.9" r="1.3"/><circle cx="49.0" cy="660.7" r="1.3"/><circle cx="23.7" cy="652.8" r="1.3"/><circle cx="87.8" cy="554.7" r="1.3"/><circle cx="161.7" cy="622.6" r="1.3"/><circle cx="29.2" cy="605.9" r="1.3"/><circle cx="135.0" cy="610.0" r="1.3"/><circle cx="162.1" cy="684.2" r="1.3"/><circle cx="158.3" cy="660.7" r="1.3"/><circle cx="186.4" cy="674.8" r="1.3"/><circle cx="135.2" cy="551.1" r="1.3"/><circle cx="161.9" cy="707.0" r="1.3"/><circle cx="96.6" cy="609.3" r="1.3"/><circle cx="186.0" cy="576.6" r="1.3"/><circle cx="133.8" cy="732.0" r="1.3"/><circle cx="62.2" cy="680.0" r="1.3"/><circle cx="203.4" cy="634.4" r="1.3"/><circle cx="149.3" cy="693.6" r="1.3"/><circle cx="60.4" cy="634.5" r="1.3"/><circle cx="134.1" cy="691.1" r="1.3"/><circle cx="113.7" cy="626.8" r="1.3"/><circle cx="55.9" cy="618.8" r="1.3"/><circle cx="170.9" cy="646.3" r="1.3"/><circle cx="67.1" cy="591.7" r="1.3"/><circle cx="203.6" cy="677.5" r="1.3"/><circle cx="138.6" cy="548.1" r="1.3"/><circle cx="155.1" cy="670.3" r="1.3"/><circle cx="198.1" cy="660.9" r="1.3"/><circle cx="111.6" cy="674.3" r="1.3"/><circle cx="35.1" cy="683.0" r="1.3"/><circle cx="136.5" cy="595.7" r="1.3"/><circle cx="170.4" cy="714.2" r="1.3"/><circle cx="43.4" cy="605.5" r="1.3"/><circle cx="135.5" cy="652.3" r="1.3"/><circle cx="92.3" cy="582.1" r="1.3"/><circle cx="199.5" cy="680.9" r="1.3"/><circle cx="58.9" cy="575.7" r="1.3"/><circle cx="192.8" cy="684.6" r="1.3"/><circle cx="197.5" cy="676.2" r="1.3"/><circle cx="62.4" cy="656.0" r="1.3"/><circle cx="28.7" cy="609.8" r="1.3"/><circle cx="112.1" cy="674.3" r="1.3"/><circle cx="69.8" cy="632.1" r="1.3"/><circle cx="145.8" cy="664.5" r="1.3"/><circle cx="157.0" cy="653.4" r="1.3"/><circle cx="95.9" cy="689.0" r="1.3"/><circle cx="119.1" cy="588.4" r="1.3"/><circle cx="75.5" cy="640.0" r="1.3"/><circle cx="108.6" cy="650.6" r="1.3"/><circle cx="116.0" cy="651.9" r="1.3"/><circle cx="108.4" cy="569.1" r="1.3"/><circle cx="140.6" cy="701.4" r="1.3"/><circle cx="144.7" cy="627.5" r="1.3"/><circle cx="142.5" cy="582.7" r="1.3"/><circle cx="28.3" cy="642.8" r="1.3"/><circle cx="62.5" cy="682.5" r="1.3"/><circle cx="79.7" cy="552.0" r="1.3"/><circle cx="67.8" cy="713.1" r="1.3"/><circle cx="95.4" cy="566.3" r="1.3"/><circle cx="69.3" cy="671.9" r="1.3"/><circle cx="148.6" cy="651.6" r="1.3"/><circle cx="190.6" cy="675.5" r="1.3"/><circle cx="114.6" cy="678.8" r="1.3"/><circle cx="191.9" cy="684.6" r="1.3"/><circle cx="170.0" cy="582.9" r="1.3"/><circle cx="106.6" cy="686.3" r="1.3"/><circle cx="98.6" cy="702.7" r="1.3"/><circle cx="151.2" cy="693.6" r="1.3"/><circle cx="108.2" cy="733.8" r="1.3"/><circle cx="186.0" cy="627.8" r="1.3"/><circle cx="119.3" cy="734.3" r="1.3"/><circle cx="95.0" cy="693.4" r="1.3"/><circle cx="175.3" cy="640.4" r="1.3"/><circle cx="48.8" cy="650.8" r="1.3"/><circle cx="136.7" cy="705.0" r="1.3"/><circle cx="165.3" cy="641.5" r="1.3"/><circle cx="167.3" cy="672.4" r="1.3"/><circle cx="129.9" cy="643.7" r="1.3"/><circle cx="100.5" cy="683.7" r="1.3"/><circle cx="56.0" cy="604.2" r="1.3"/><circle cx="116.3" cy="562.2" r="1.3"/><circle cx="96.9" cy="552.0" r="1.3"/><circle cx="73.9" cy="675.1" r="1.3"/><circle cx="152.9" cy="636.4" r="1.3"/><circle cx="103.6" cy="564.0" r="1.3"/><circle cx="200.4" cy="663.8" r="1.3"/><circle cx="175.2" cy="592.3" r="1.3"/><circle cx="107.2" cy="553.9" r="1.3"/><circle cx="160.5" cy="693.3" r="1.3"/><circle cx="28.3" cy="637.6" r="1.3"/><circle cx="145.4" cy="557.8" r="1.3"/><circle cx="37.7" cy="594.3" r="1.3"/><circle cx="83.3" cy="567.1" r="1.3"/><circle cx="118.1" cy="656.8" r="1.3"/><circle cx="154.6" cy="682.8" r="1.3"/><circle cx="185.4" cy="693.8" r="1.3"/><circle cx="45.0" cy="612.7" r="1.3"/><circle cx="60.4" cy="583.6" r="1.3"/><circle cx="110.5" cy="640.4" r="1.3"/><circle cx="140.5" cy="560.7" r="1.3"/><circle cx="45.8" cy="638.7" r="1.3"/><circle cx="102.7" cy="619.2" r="1.3"/><circle cx="112.0" cy="592.0" r="1.3"/><circle cx="160.2" cy="662.3" r="1.3"/><circle cx="110.4" cy="596.9" r="1.3"/><circle cx="109.9" cy="545.4" r="1.3"/><circle cx="56.7" cy="642.3" r="1.3"/><circle cx="37.3" cy="650.4" r="1.3"/><circle cx="124.0" cy="565.0" r="1.3"/><circle cx="99.3" cy="619.1" r="1.3"/><circle cx="145.1" cy="678.7" r="1.3"/><circle cx="113.7" cy="587.1" r="1.3"/><circle cx="106.2" cy="635.6" r="1.3"/><circle cx="162.2" cy="658.5" r="1.3"/><circle cx="78.4" cy="569.5" r="1.3"/><circle cx="92.7" cy="593.8" r="1.3"/><circle cx="50.9" cy="633.2" r="1.3"/><circle cx="83.7" cy="646.9" r="1.3"/><circle cx="149.6" cy="613.5" r="1.3"/><circle cx="208.0" cy="627.3" r="1.3"/><circle cx="180.6" cy="647.1" r="1.3"/><circle cx="156.2" cy="554.5" r="1.3"/><circle cx="68.7" cy="655.5" r="1.3"/><circle cx="139.3" cy="730.4" r="1.3"/><circle cx="133.9" cy="711.0" r="1.3"/><circle cx="159.7" cy="694.0" r="1.3"/><circle cx="149.4" cy="629.8" r="1.3"/><circle cx="145.2" cy="578.1" r="1.3"/><circle cx="177.0" cy="587.5" r="1.3"/><circle cx="126.6" cy="730.3" r="1.3"/><circle cx="100.9" cy="641.3" r="1.3"/><circle cx="183.3" cy="641.5" r="1.3"/><circle cx="65.8" cy="656.1" r="1.3"/><circle cx="151.7" cy="683.5" r="1.3"/><circle cx="80.5" cy="720.5" r="1.3"/><circle cx="199.2" cy="640.9" r="1.3"/><circle cx="133.7" cy="611.8" r="1.3"/><circle cx="188.5" cy="603.8" r="1.3"/><circle cx="158.1" cy="610.0" r="1.3"/><circle cx="74.2" cy="683.3" r="1.3"/><circle cx="189.7" cy="639.4" r="1.3"/><circle cx="75.7" cy="688.2" r="1.3"/><circle cx="112.7" cy="660.8" r="1.3"/><circle cx="186.4" cy="692.3" r="1.3"/><circle cx="95.4" cy="730.5" r="1.3"/><circle cx="116.2" cy="689.5" r="1.3"/><circle cx="74.3" cy="637.1" r="1.3"/><circle cx="50.3" cy="707.1" r="1.3"/><circle cx="180.6" cy="582.5" r="1.3"/><circle cx="53.6" cy="572.8" r="1.3"/><circle cx="182.3" cy="614.1" r="1.3"/><circle cx="111.9" cy="619.0" r="1.3"/><circle cx="108.9" cy="575.9" r="1.3"/><circle cx="117.3" cy="562.9" r="1.3"/><circle cx="111.2" cy="660.7" r="1.3"/><circle cx="146.7" cy="624.8" r="1.3"/><circle cx="60.6" cy="649.8" r="1.3"/><circle cx="91.6" cy="718.8" r="1.3"/><circle cx="164.4" cy="632.7" r="1.3"/><circle cx="86.7" cy="596.3" r="1.3"/><circle cx="59.6" cy="618.8" r="1.3"/></g>
-  <g fill="#d4e57b"><circle cx="191.1" cy="675.9" r="1.6"/><circle cx="226.1" cy="660.2" r="1.6"/><circle cx="194.7" cy="630.7" r="1.6"/><circle cx="197.4" cy="675.7" r="1.6"/><circle cx="184.5" cy="640.6" r="1.6"/><circle cx="218.0" cy="649.1" r="1.6"/><circle cx="211.0" cy="640.4" r="1.6"/><circle cx="199.8" cy="634.9" r="1.6"/><circle cx="207.9" cy="630.8" r="1.6"/><circle cx="224.4" cy="641.7" r="1.6"/><circle cx="217.4" cy="668.8" r="1.6"/><circle cx="229.1" cy="655.4" r="1.6"/><circle cx="196.7" cy="675.1" r="1.6"/><circle cx="213.8" cy="667.7" r="1.6"/><circle cx="216.6" cy="639.0" r="1.6"/><circle cx="208.5" cy="633.3" r="1.6"/><circle cx="185.4" cy="652.6" r="1.6"/><circle cx="214.1" cy="669.9" r="1.6"/><circle cx="192.3" cy="638.0" r="1.6"/><circle cx="188.7" cy="649.6" r="1.6"/><circle cx="190.3" cy="660.8" r="1.6"/><circle cx="223.3" cy="663.4" r="1.6"/><circle cx="208.9" cy="672.4" r="1.6"/><circle cx="229.6" cy="652.1" r="1.6"/><circle cx="211.2" cy="667.8" r="1.6"/><circle cx="180.0" cy="660.0" r="1.6"/><circle cx="205.9" cy="674.4" r="1.6"/><circle cx="207.5" cy="631.1" r="1.6"/><circle cx="207.3" cy="636.8" r="1.6"/><circle cx="200.8" cy="670.9" r="1.6"/><circle cx="203.6" cy="671.1" r="1.6"/><circle cx="188.9" cy="660.0" r="1.6"/><circle cx="205.6" cy="671.3" r="1.6"/><circle cx="217.6" cy="645.1" r="1.6"/><circle cx="219.6" cy="660.7" r="1.6"/><circle cx="204.5" cy="674.3" r="1.6"/><circle cx="195.0" cy="641.7" r="1.6"/><circle cx="189.9" cy="657.2" r="1.6"/><circle cx="228.6" cy="654.7" r="1.6"/><circle cx="206.3" cy="673.2" r="1.6"/><circle cx="186.8" cy="671.5" r="1.6"/><circle cx="205.6" cy="668.5" r="1.6"/><circle cx="184.7" cy="639.9" r="1.6"/><circle cx="209.1" cy="668.0" r="1.6"/><circle cx="187.9" cy="652.7" r="1.6"/><circle cx="185.4" cy="639.9" r="1.6"/></g>
-  <g fill="#3ddc84"><circle cx="179.9" cy="664.4" r="2.4"/><circle cx="66.8" cy="692.9" r="2.4"/><circle cx="28.7" cy="609.8" r="2.4"/><circle cx="193.2" cy="630.4" r="2.4"/><circle cx="87.2" cy="707.6" r="2.4"/><circle cx="116.0" cy="651.9" r="2.4"/><circle cx="199.5" cy="680.9" r="2.4"/><circle cx="50.7" cy="654.2" r="2.4"/><circle cx="118.7" cy="712.7" r="2.4"/><circle cx="73.4" cy="714.6" r="2.4"/><circle cx="104.9" cy="569.3" r="2.4"/><circle cx="142.2" cy="652.3" r="2.4"/><circle cx="111.6" cy="674.3" r="2.4"/><circle cx="119.3" cy="734.3" r="2.4"/><circle cx="140.6" cy="701.4" r="2.4"/><circle cx="171.7" cy="623.8" r="2.4"/><circle cx="113.7" cy="626.8" r="2.4"/><circle cx="180.6" cy="649.2" r="2.4"/><circle cx="93.0" cy="632.9" r="2.4"/><circle cx="78.4" cy="569.5" r="2.4"/><circle cx="75.7" cy="688.2" r="2.4"/><circle cx="124.0" cy="565.0" r="2.4"/></g>
-  <circle cx="140" cy="612" r="5.5" fill="#3ddc84"/>
-  <circle cx="204" cy="654" r="4" fill="#bdbdbd"/>
-  <rect x="254" y="52" width="646" height="716" rx="14" fill="#0d0d0d"/>
-  <rect x="276" y="104" width="610" height="140" rx="70" fill="#000" stroke="#f2f2f2" stroke-width="4"/>
-  <rect x="310" y="86" width="88" height="34" rx="17" fill="#000" stroke="#f2f2f2" stroke-width="2.5"/>
-  <text x="354.0" y="108" font-size="14" font-weight="800" fill="#fff" text-anchor="middle" letter-spacing="1">ALEX</text>
-  <rect x="406" y="86" width="116" height="34" rx="17" fill="#000" stroke="#f2f2f2" stroke-width="2.5"/>
-  <text x="464.0" y="108" font-size="14" font-weight="800" fill="#fff" text-anchor="middle" letter-spacing="1">GRP2601</text>
-  <text x="316" y="224" font-size="112" font-weight="900" fill="#fff" textLength="172" lengthAdjust="spacingAndGlyphs">HO</text>
-  <g transform="rotate(-8 546 182)"><text x="496" y="216" font-size="112" font-weight="900" fill="#7cc4ef" textLength="100" lengthAdjust="spacingAndGlyphs">M</text></g>
-  <text x="602" y="224" font-size="112" font-weight="900" fill="#fff" textLength="76" lengthAdjust="spacingAndGlyphs">E</text>
-  <text x="766" y="172" font-size="44" font-weight="500" fill="#fff" textLength="92" lengthAdjust="spacingAndGlyphs">274</text>
-  <line x1="764" y1="186" x2="860" y2="186" stroke="#fff" stroke-width="3"/>
-  <text x="766" y="228" font-size="44" font-weight="500" fill="#fff" textLength="92" lengthAdjust="spacingAndGlyphs">365</text>
-  <rect x="276" y="262" width="270" height="190" rx="24" fill="#7cc4ef" stroke="#bfe3f8" stroke-width="3"/>
-  <text x="298" y="342" font-size="76" font-weight="700" fill="#0d2b4a" textLength="226" lengthAdjust="spacingAndGlyphs">00:01</text>
-  <line x1="292" y1="360" x2="530" y2="360" stroke="#0d2b4a" stroke-width="3"/>
-  <text x="411" y="392" font-size="22" font-weight="800" fill="#0d2b4a" text-anchor="middle">THU · 1 OCT</text>
-  <line x1="292" y1="406" x2="530" y2="406" stroke="#0d2b4a" stroke-width="3"/>
-  <text x="294" y="437" font-size="18" font-weight="800" fill="#0d2b4a">DAY 274</text>
+  <clipPath id="frame"><rect width="1200" height="900" rx="18"/></clipPath>
+  <g clip-path="url(#frame)">
+  <rect x="0" y="0" width="1200" height="900" rx="0" fill="#0e0c0b"/>
+  <rect x="440" y="9" width="210" height="30" rx="15" fill="#161311" stroke="#2b2623"/>
+  <text x="458" y="29" font-size="13" font-weight="500" fill="#f1ebe2">01 - Главная</text>
+  <path d="M626 19 L634 27 M634 19 L626 27" stroke="#9a9188" stroke-width="1.6" stroke-linecap="round"/>
+  <rect x="12" y="52" width="230" height="480" rx="14" fill="#161311" stroke="#2b2623"/>
+  <g fill="none" stroke="#9a9188" stroke-width="1.6" stroke-linejoin="round"><path d="M30 68 h6 l2 3 h8 v10 h-16 z"/><path d="M62 67 h10 v15 l-5 -4 l-5 4 z"/><circle cx="98" cy="74" r="5.5"/><path d="M102 78 l4 4" stroke-linecap="round"/></g>
+  <path d="M27 109 L31 113 L27 117" fill="none" stroke="#6e665e" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="41" y="107" width="13" height="12" rx="2.5" fill="none" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.4"/>
+  <line x1="44" y1="111" x2="51" y2="111" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.2"/>
+  <text x="64" y="118" font-size="13.5" font-weight="500" fill="#f1ebe2">01 - Personal</text>
+  <path d="M27 147 L31 151 L27 155" fill="none" stroke="#6e665e" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="41" y="145" width="13" height="12" rx="2.5" fill="none" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.4"/>
+  <line x1="44" y1="149" x2="51" y2="149" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.2"/>
+  <text x="64" y="156" font-size="13.5" font-weight="500" fill="#f1ebe2">02 - University</text>
+  <path d="M27 185 L31 189 L27 193" fill="none" stroke="#6e665e" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="41" y="183" width="13" height="12" rx="2.5" fill="none" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.4"/>
+  <line x1="44" y1="187" x2="51" y2="187" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.2"/>
+  <text x="64" y="194" font-size="13.5" font-weight="500" fill="#f1ebe2">03 - Journal</text>
+  <path d="M25 225 L29 229 L33 225" fill="none" stroke="#6e665e" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="41" y="221" width="13" height="12" rx="2.5" fill="none" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.4"/>
+  <line x1="44" y1="225" x2="51" y2="225" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.2"/>
+  <text x="64" y="232" font-size="13.5" font-weight="500" fill="#f1ebe2">04 - Workspace</text>
+  <rect x="22" y="251" width="212" height="28" rx="8" fill="#a9c1cc" fill-opacity=".16"/>
+  <rect x="60" y="259" width="13" height="12" rx="3" fill="#a9c1cc"/>
+  <text x="82" y="270" font-size="13.5" font-weight="700" fill="#f1ebe2">Campus</text>
+  <path d="M27 299 L31 303 L27 307" fill="none" stroke="#6e665e" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="41" y="297" width="13" height="12" rx="2.5" fill="none" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.4"/>
+  <line x1="44" y1="301" x2="51" y2="301" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.2"/>
+  <text x="64" y="308" font-size="13.5" font-weight="500" fill="#f1ebe2">05 - Knowledge Library</text>
+  <path d="M27 337 L31 341 L27 345" fill="none" stroke="#6e665e" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="41" y="335" width="13" height="12" rx="2.5" fill="none" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.4"/>
+  <line x1="44" y1="339" x2="51" y2="339" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.2"/>
+  <text x="64" y="346" font-size="13.5" font-weight="500" fill="#f1ebe2">06 - Information Sphere</text>
+  <path d="M27 375 L31 379 L27 383" fill="none" stroke="#6e665e" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="41" y="373" width="13" height="12" rx="2.5" fill="none" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.4"/>
+  <line x1="44" y1="377" x2="51" y2="377" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.2"/>
+  <text x="64" y="384" font-size="13.5" font-weight="500" fill="#f1ebe2">97 - Rare Usage</text>
+  <path d="M27 413 L31 417 L27 421" fill="none" stroke="#6e665e" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="41" y="411" width="13" height="12" rx="2.5" fill="none" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.4"/>
+  <line x1="44" y1="415" x2="51" y2="415" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.2"/>
+  <text x="64" y="422" font-size="13.5" font-weight="500" fill="#f1ebe2">98 - Obsidian Tools</text>
+  <path d="M27 451 L31 455 L27 459" fill="none" stroke="#6e665e" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="41" y="449" width="13" height="12" rx="2.5" fill="none" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.4"/>
+  <line x1="44" y1="453" x2="51" y2="453" stroke="#e6e0d4" stroke-opacity=".8" stroke-width="1.2"/>
+  <text x="64" y="460" font-size="13.5" font-weight="500" fill="#f1ebe2">99 - Information Base</text>
+  <rect x="12" y="544" width="230" height="344" rx="14" fill="#12100e" stroke="#2b2623"/>
+  <g stroke="#9a9188" stroke-opacity=".22" stroke-width=".6"><line x1="99.9" y1="752.1" x2="105.2" y2="736.1"/><line x1="158.4" y1="716.1" x2="203.8" y2="733.6"/><line x1="210.9" y1="718.3" x2="190.9" y2="717.6"/><line x1="179.2" y1="764.1" x2="200.4" y2="700.8"/><line x1="121.6" y1="768.7" x2="99.9" y2="752.1"/><line x1="146.4" y1="729.3" x2="137.1" y2="685.5"/><line x1="101.7" y1="717.4" x2="114.0" y2="783.2"/><line x1="74.4" y1="768.2" x2="103.9" y2="713.9"/><line x1="151.4" y1="787.9" x2="95.3" y2="773.8"/><line x1="168.0" y1="736.1" x2="161.9" y2="733.3"/><line x1="77.3" y1="639.7" x2="118.1" y2="644.1"/><line x1="168.7" y1="736.8" x2="127.1" y2="764.7"/><line x1="81.0" y1="728.0" x2="88.6" y2="760.7"/><line x1="116.5" y1="758.0" x2="160.0" y2="775.4"/><line x1="45.2" y1="727.7" x2="39.2" y2="760.5"/><line x1="159.3" y1="674.9" x2="178.3" y2="698.5"/><line x1="52.9" y1="693.0" x2="107.2" y2="694.4"/><line x1="135.5" y1="747.0" x2="94.4" y2="759.1"/><line x1="41.9" y1="714.6" x2="93.1" y2="708.3"/><line x1="149.1" y1="702.5" x2="140.2" y2="668.0"/><line x1="108.5" y1="622.8" x2="174.1" y2="641.4"/><line x1="135.5" y1="747.0" x2="167.5" y2="697.2"/><line x1="173.6" y1="751.1" x2="128.7" y2="756.5"/><line x1="137.6" y1="771.3" x2="72.4" y2="754.0"/><line x1="179.0" y1="749.8" x2="153.5" y2="711.6"/><line x1="165.8" y1="740.2" x2="190.8" y2="758.9"/><line x1="40.2" y1="779.1" x2="95.3" y2="773.8"/><line x1="112.0" y1="716.4" x2="56.4" y2="682.2"/><line x1="64.8" y1="639.8" x2="56.4" y2="682.2"/><line x1="120.9" y1="794.8" x2="118.5" y2="770.7"/><line x1="122.7" y1="795.5" x2="64.7" y2="773.3"/><line x1="111.9" y1="669.3" x2="144.6" y2="630.0"/><line x1="213.4" y1="676.2" x2="184.6" y2="732.0"/><line x1="53.5" y1="754.8" x2="114.0" y2="783.2"/><line x1="129.1" y1="745.3" x2="135.5" y2="747.0"/><line x1="128.3" y1="642.6" x2="128.7" y2="705.0"/><line x1="42.8" y1="777.4" x2="35.6" y2="774.8"/><line x1="157.0" y1="705.4" x2="173.6" y2="751.1"/><line x1="47.5" y1="708.6" x2="23.0" y2="713.4"/><line x1="128.9" y1="790.0" x2="122.7" y2="795.5"/><line x1="143.0" y1="726.3" x2="167.7" y2="788.6"/><line x1="113.6" y1="693.3" x2="177.0" y2="679.8"/></g>
+  <g fill="#9a9188" fill-opacity=".8"><circle cx="99.9" cy="752.1" r="1.3"/><circle cx="101.7" cy="693.3" r="1.3"/><circle cx="56.7" cy="701.9" r="1.3"/><circle cx="187.2" cy="742.4" r="1.3"/><circle cx="184.6" cy="732.0" r="1.3"/><circle cx="146.4" cy="729.3" r="1.3"/><circle cx="33.9" cy="759.2" r="1.3"/><circle cx="153.0" cy="750.5" r="1.3"/><circle cx="47.5" cy="643.3" r="1.3"/><circle cx="60.0" cy="685.5" r="1.3"/><circle cx="140.2" cy="712.7" r="1.3"/><circle cx="153.3" cy="672.5" r="1.3"/><circle cx="140.0" cy="744.1" r="1.3"/><circle cx="84.2" cy="803.7" r="1.3"/><circle cx="151.4" cy="787.9" r="1.3"/><circle cx="77.2" cy="667.4" r="1.3"/><circle cx="93.1" cy="708.3" r="1.3"/><circle cx="161.9" cy="733.3" r="1.3"/><circle cx="89.2" cy="654.4" r="1.3"/><circle cx="86.8" cy="789.2" r="1.3"/><circle cx="63.5" cy="732.5" r="1.3"/><circle cx="141.9" cy="632.4" r="1.3"/><circle cx="120.9" cy="794.8" r="1.3"/><circle cx="21.9" cy="700.7" r="1.3"/><circle cx="110.8" cy="660.7" r="1.3"/><circle cx="153.5" cy="711.6" r="1.3"/><circle cx="39.2" cy="760.5" r="1.3"/><circle cx="160.0" cy="775.4" r="1.3"/><circle cx="200.4" cy="736.7" r="1.3"/><circle cx="125.2" cy="637.6" r="1.3"/><circle cx="159.3" cy="674.9" r="1.3"/><circle cx="91.0" cy="640.5" r="1.3"/><circle cx="56.4" cy="682.2" r="1.3"/><circle cx="172.1" cy="630.6" r="1.3"/><circle cx="34.4" cy="729.7" r="1.3"/><circle cx="198.9" cy="748.4" r="1.3"/><circle cx="55.6" cy="633.3" r="1.3"/><circle cx="142.2" cy="666.1" r="1.3"/><circle cx="53.9" cy="771.9" r="1.3"/><circle cx="188.0" cy="726.0" r="1.3"/><circle cx="135.5" cy="747.0" r="1.3"/><circle cx="203.0" cy="749.0" r="1.3"/><circle cx="153.6" cy="753.6" r="1.3"/><circle cx="42.8" cy="777.4" r="1.3"/><circle cx="179.0" cy="749.8" r="1.3"/><circle cx="24.9" cy="686.1" r="1.3"/><circle cx="158.8" cy="628.3" r="1.3"/><circle cx="106.1" cy="782.0" r="1.3"/><circle cx="56.2" cy="791.8" r="1.3"/><circle cx="157.0" cy="705.4" r="1.3"/><circle cx="140.4" cy="760.8" r="1.3"/><circle cx="125.6" cy="788.0" r="1.3"/><circle cx="72.8" cy="687.7" r="1.3"/><circle cx="185.3" cy="717.7" r="1.3"/><circle cx="64.7" cy="773.3" r="1.3"/><circle cx="200.7" cy="690.9" r="1.3"/><circle cx="36.7" cy="708.1" r="1.3"/><circle cx="107.2" cy="694.4" r="1.3"/><circle cx="192.1" cy="661.8" r="1.3"/><circle cx="183.5" cy="650.1" r="1.3"/><circle cx="66.8" cy="757.1" r="1.3"/><circle cx="183.9" cy="766.2" r="1.3"/><circle cx="143.0" cy="726.3" r="1.3"/><circle cx="128.7" cy="756.5" r="1.3"/><circle cx="105.2" cy="736.1" r="1.3"/><circle cx="158.4" cy="716.1" r="1.3"/><circle cx="168.4" cy="753.3" r="1.3"/><circle cx="214.0" cy="731.5" r="1.3"/><circle cx="87.8" cy="689.7" r="1.3"/><circle cx="117.1" cy="777.3" r="1.3"/><circle cx="94.0" cy="743.5" r="1.3"/><circle cx="178.4" cy="631.7" r="1.3"/><circle cx="47.3" cy="731.3" r="1.3"/><circle cx="146.5" cy="733.1" r="1.3"/><circle cx="88.6" cy="760.7" r="1.3"/><circle cx="137.9" cy="679.2" r="1.3"/><circle cx="218.4" cy="730.7" r="1.3"/><circle cx="78.8" cy="709.0" r="1.3"/><circle cx="101.5" cy="711.4" r="1.3"/><circle cx="16.7" cy="697.9" r="1.3"/><circle cx="174.7" cy="650.3" r="1.3"/><circle cx="113.6" cy="778.8" r="1.3"/><circle cx="163.5" cy="795.2" r="1.3"/><circle cx="28.1" cy="697.3" r="1.3"/><circle cx="94.4" cy="759.1" r="1.3"/><circle cx="156.9" cy="620.4" r="1.3"/><circle cx="174.1" cy="641.4" r="1.3"/><circle cx="155.2" cy="634.7" r="1.3"/><circle cx="128.9" cy="790.0" r="1.3"/><circle cx="107.1" cy="730.0" r="1.3"/><circle cx="172.1" cy="725.6" r="1.3"/><circle cx="113.0" cy="802.4" r="1.3"/><circle cx="185.0" cy="697.2" r="1.3"/><circle cx="213.4" cy="676.2" r="1.3"/><circle cx="178.3" cy="698.5" r="1.3"/><circle cx="127.1" cy="764.7" r="1.3"/><circle cx="133.5" cy="760.4" r="1.3"/><circle cx="47.8" cy="646.6" r="1.3"/><circle cx="156.8" cy="655.3" r="1.3"/><circle cx="64.8" cy="639.8" r="1.3"/><circle cx="190.8" cy="758.9" r="1.3"/><circle cx="195.6" cy="666.6" r="1.3"/><circle cx="118.1" cy="644.1" r="1.3"/><circle cx="158.1" cy="799.2" r="1.3"/><circle cx="71.9" cy="796.8" r="1.3"/><circle cx="182.4" cy="704.4" r="1.3"/><circle cx="35.6" cy="774.8" r="1.3"/><circle cx="111.2" cy="673.7" r="1.3"/><circle cx="146.2" cy="745.0" r="1.3"/><circle cx="195.2" cy="663.4" r="1.3"/><circle cx="175.4" cy="791.1" r="1.3"/><circle cx="201.7" cy="705.6" r="1.3"/><circle cx="72.6" cy="778.2" r="1.3"/><circle cx="126.4" cy="725.1" r="1.3"/><circle cx="200.4" cy="700.8" r="1.3"/><circle cx="18.9" cy="699.3" r="1.3"/><circle cx="29.2" cy="755.2" r="1.3"/><circle cx="140.0" cy="673.6" r="1.3"/><circle cx="117.4" cy="772.3" r="1.3"/><circle cx="122.7" cy="795.5" r="1.3"/><circle cx="114.0" cy="783.2" r="1.3"/><circle cx="185.4" cy="788.8" r="1.3"/><circle cx="75.3" cy="772.0" r="1.3"/><circle cx="32.4" cy="666.5" r="1.3"/><circle cx="30.5" cy="763.7" r="1.3"/><circle cx="42.2" cy="715.2" r="1.3"/><circle cx="103.9" cy="713.9" r="1.3"/><circle cx="76.6" cy="732.4" r="1.3"/><circle cx="210.9" cy="718.3" r="1.3"/><circle cx="151.5" cy="779.2" r="1.3"/><circle cx="106.0" cy="639.4" r="1.3"/><circle cx="83.6" cy="782.5" r="1.3"/><circle cx="31.4" cy="684.6" r="1.3"/><circle cx="179.2" cy="764.1" r="1.3"/><circle cx="118.5" cy="770.7" r="1.3"/><circle cx="128.3" cy="642.6" r="1.3"/><circle cx="34.1" cy="681.7" r="1.3"/><circle cx="177.0" cy="679.8" r="1.3"/><circle cx="61.8" cy="668.0" r="1.3"/><circle cx="31.7" cy="709.4" r="1.3"/><circle cx="45.4" cy="738.4" r="1.3"/><circle cx="18.0" cy="729.9" r="1.3"/><circle cx="87.5" cy="623.5" r="1.3"/><circle cx="167.5" cy="697.2" r="1.3"/><circle cx="24.0" cy="679.1" r="1.3"/><circle cx="138.6" cy="683.5" r="1.3"/><circle cx="167.9" cy="763.8" r="1.3"/><circle cx="163.8" cy="738.5" r="1.3"/><circle cx="194.3" cy="753.7" r="1.3"/><circle cx="138.8" cy="619.7" r="1.3"/><circle cx="167.7" cy="788.6" r="1.3"/><circle cx="97.0" cy="682.8" r="1.3"/><circle cx="193.8" cy="647.3" r="1.3"/><circle cx="137.3" cy="815.7" r="1.3"/><circle cx="59.7" cy="759.3" r="1.3"/><circle cx="212.7" cy="710.0" r="1.3"/><circle cx="154.1" cy="774.0" r="1.3"/><circle cx="57.7" cy="710.1" r="1.3"/><circle cx="137.6" cy="771.3" r="1.3"/><circle cx="115.5" cy="701.7" r="1.3"/><circle cx="52.9" cy="693.0" r="1.3"/><circle cx="177.5" cy="722.8" r="1.3"/><circle cx="65.0" cy="663.7" r="1.3"/><circle cx="212.9" cy="756.6" r="1.3"/><circle cx="142.5" cy="616.4" r="1.3"/><circle cx="160.4" cy="748.8" r="1.3"/><circle cx="207.0" cy="738.6" r="1.3"/><circle cx="113.2" cy="753.1" r="1.3"/><circle cx="30.3" cy="762.6" r="1.3"/><circle cx="140.2" cy="668.0" r="1.3"/><circle cx="176.9" cy="796.4" r="1.3"/><circle cx="39.4" cy="678.6" r="1.3"/><circle cx="139.1" cy="729.3" r="1.3"/><circle cx="92.3" cy="653.2" r="1.3"/><circle cx="208.5" cy="760.3" r="1.3"/><circle cx="56.2" cy="646.4" r="1.3"/><circle cx="201.2" cy="764.3" r="1.3"/><circle cx="206.3" cy="755.3" r="1.3"/><circle cx="60.0" cy="733.3" r="1.3"/><circle cx="23.4" cy="683.2" r="1.3"/><circle cx="113.8" cy="753.2" r="1.3"/><circle cx="67.9" cy="707.5" r="1.3"/><circle cx="150.3" cy="742.5" r="1.3"/><circle cx="162.4" cy="730.5" r="1.3"/><circle cx="96.2" cy="769.1" r="1.3"/><circle cx="121.3" cy="660.1" r="1.3"/><circle cx="74.1" cy="716.0" r="1.3"/><circle cx="110.0" cy="727.5" r="1.3"/><circle cx="118.0" cy="728.9" r="1.3"/><circle cx="109.8" cy="639.2" r="1.3"/><circle cx="144.6" cy="782.5" r="1.3"/><circle cx="149.1" cy="702.5" r="1.3"/><circle cx="146.7" cy="653.9" r="1.3"/><circle cx="23.0" cy="719.0" r="1.3"/><circle cx="60.1" cy="762.1" r="1.3"/><circle cx="78.7" cy="620.7" r="1.3"/><circle cx="65.8" cy="795.2" r="1.3"/><circle cx="95.7" cy="636.1" r="1.3"/><circle cx="67.4" cy="750.6" r="1.3"/><circle cx="153.3" cy="728.6" r="1.3"/><circle cx="198.8" cy="754.5" r="1.3"/><circle cx="116.5" cy="758.0" r="1.3"/><circle cx="200.3" cy="764.3" r="1.3"/><circle cx="176.5" cy="654.1" r="1.3"/><circle cx="107.8" cy="766.2" r="1.3"/><circle cx="99.2" cy="783.9" r="1.3"/><circle cx="156.1" cy="774.0" r="1.3"/><circle cx="109.5" cy="817.6" r="1.3"/><circle cx="193.8" cy="702.8" r="1.3"/><circle cx="121.6" cy="818.1" r="1.3"/><circle cx="95.3" cy="773.8" r="1.3"/><circle cx="182.2" cy="716.4" r="1.3"/><circle cx="45.2" cy="727.7" r="1.3"/><circle cx="140.4" cy="786.4" r="1.3"/><circle cx="171.4" cy="717.7" r="1.3"/><circle cx="173.6" cy="751.1" r="1.3"/><circle cx="133.1" cy="720.0" r="1.3"/><circle cx="101.2" cy="763.3" r="1.3"/><circle cx="53.0" cy="677.2" r="1.3"/><circle cx="118.3" cy="631.7" r="1.3"/><circle cx="97.3" cy="620.7" r="1.3"/><circle cx="72.4" cy="754.0" r="1.3"/><circle cx="158.0" cy="712.1" r="1.3"/><circle cx="104.5" cy="633.7" r="1.3"/><circle cx="209.5" cy="741.8" r="1.3"/><circle cx="182.1" cy="664.3" r="1.3"/><circle cx="108.5" cy="622.8" r="1.3"/><circle cx="166.2" cy="773.8" r="1.3"/><circle cx="23.0" cy="713.4" r="1.3"/><circle cx="149.8" cy="627.0" r="1.3"/><circle cx="33.1" cy="666.5" r="1.3"/><circle cx="82.6" cy="637.0" r="1.3"/><circle cx="120.3" cy="734.2" r="1.3"/><circle cx="159.9" cy="762.4" r="1.3"/><circle cx="193.2" cy="774.2" r="1.3"/><circle cx="41.1" cy="686.4" r="1.3"/><circle cx="57.8" cy="654.9" r="1.3"/><circle cx="112.0" cy="716.4" r="1.3"/><circle cx="144.6" cy="630.0" r="1.3"/><circle cx="41.9" cy="714.6" r="1.3"/><circle cx="103.6" cy="693.5" r="1.3"/><circle cx="113.7" cy="664.0" r="1.3"/><circle cx="165.8" cy="740.2" r="1.3"/><circle cx="111.9" cy="669.3" r="1.3"/><circle cx="111.4" cy="613.5" r="1.3"/><circle cx="53.7" cy="718.4" r="1.3"/><circle cx="32.8" cy="727.3" r="1.3"/><circle cx="126.7" cy="634.8" r="1.3"/><circle cx="99.9" cy="693.4" r="1.3"/><circle cx="149.5" cy="757.9" r="1.3"/><circle cx="115.6" cy="658.7" r="1.3"/><circle cx="107.4" cy="711.2" r="1.3"/><circle cx="168.0" cy="736.1" r="1.3"/><circle cx="77.3" cy="639.7" r="1.3"/><circle cx="92.8" cy="665.9" r="1.3"/><circle cx="47.5" cy="708.6" r="1.3"/><circle cx="83.0" cy="723.5" r="1.3"/><circle cx="154.4" cy="687.2" r="1.3"/><circle cx="217.7" cy="702.2" r="1.3"/><circle cx="188.0" cy="723.7" r="1.3"/><circle cx="161.5" cy="623.4" r="1.3"/><circle cx="66.8" cy="732.8" r="1.3"/><circle cx="143.3" cy="813.9" r="1.3"/><circle cx="137.4" cy="792.9" r="1.3"/><circle cx="165.4" cy="774.5" r="1.3"/><circle cx="154.2" cy="704.9" r="1.3"/><circle cx="149.7" cy="648.9" r="1.3"/><circle cx="184.1" cy="659.1" r="1.3"/><circle cx="129.5" cy="813.9" r="1.3"/><circle cx="101.7" cy="717.4" r="1.3"/><circle cx="190.9" cy="717.6" r="1.3"/><circle cx="63.6" cy="733.4" r="1.3"/><circle cx="156.7" cy="763.2" r="1.3"/><circle cx="79.5" cy="803.2" r="1.3"/><circle cx="208.1" cy="717.0" r="1.3"/><circle cx="137.1" cy="685.5" r="1.3"/><circle cx="196.6" cy="676.8" r="1.3"/><circle cx="163.6" cy="683.5" r="1.3"/><circle cx="72.7" cy="762.9" r="1.3"/><circle cx="197.8" cy="715.4" r="1.3"/><circle cx="74.4" cy="768.2" r="1.3"/><circle cx="114.4" cy="738.6" r="1.3"/><circle cx="194.3" cy="772.7" r="1.3"/><circle cx="95.7" cy="814.1" r="1.3"/><circle cx="118.2" cy="769.6" r="1.3"/><circle cx="72.8" cy="712.9" r="1.3"/><circle cx="46.8" cy="788.7" r="1.3"/><circle cx="188.0" cy="653.7" r="1.3"/><circle cx="50.4" cy="643.2" r="1.3"/><circle cx="189.8" cy="687.9" r="1.3"/><circle cx="113.6" cy="693.3" r="1.3"/><circle cx="110.3" cy="646.6" r="1.3"/><circle cx="119.4" cy="632.5" r="1.3"/><circle cx="112.8" cy="738.4" r="1.3"/><circle cx="151.2" cy="699.5" r="1.3"/><circle cx="58.0" cy="726.6" r="1.3"/><circle cx="91.6" cy="801.4" r="1.3"/><circle cx="170.5" cy="708.1" r="1.3"/><circle cx="86.2" cy="668.6" r="1.3"/><circle cx="56.9" cy="693.0" r="1.3"/><circle cx="138.8" cy="752.3" r="1.3"/><circle cx="143.9" cy="811.5" r="1.3"/><circle cx="69.2" cy="716.9" r="1.3"/><circle cx="204.3" cy="658.3" r="1.3"/><circle cx="81.0" cy="728.0" r="1.3"/><circle cx="129.1" cy="745.3" r="1.3"/><circle cx="100.9" cy="742.3" r="1.3"/><circle cx="121.6" cy="768.7" r="1.3"/><circle cx="29.3" cy="674.5" r="1.3"/><circle cx="117.9" cy="649.2" r="1.3"/><circle cx="53.5" cy="754.8" r="1.3"/><circle cx="74.7" cy="758.3" r="1.3"/><circle cx="168.7" cy="736.8" r="1.3"/><circle cx="154.1" cy="708.6" r="1.3"/><circle cx="35.5" cy="714.2" r="1.3"/><circle cx="149.5" cy="679.3" r="1.3"/><circle cx="111.2" cy="767.4" r="1.3"/><circle cx="61.9" cy="756.9" r="1.3"/><circle cx="209.8" cy="688.7" r="1.3"/><circle cx="128.7" cy="705.0" r="1.3"/><circle cx="203.8" cy="733.6" r="1.3"/><circle cx="174.7" cy="672.4" r="1.3"/><circle cx="116.8" cy="715.3" r="1.3"/><circle cx="40.2" cy="779.1" r="1.3"/><circle cx="162.0" cy="630.5" r="1.3"/><circle cx="169.1" cy="707.0" r="1.3"/><circle cx="149.6" cy="741.9" r="1.3"/><circle cx="33.0" cy="704.0" r="1.3"/><circle cx="200.4" cy="684.2" r="1.3"/><circle cx="63.3" cy="643.3" r="1.3"/></g>
+  <g fill="#c2bba5"><circle cx="203.0" cy="759.3" r="1.6"/><circle cx="213.6" cy="747.7" r="1.6"/><circle cx="207.8" cy="751.2" r="1.6"/><circle cx="185.9" cy="730.3" r="1.6"/><circle cx="224.2" cy="745.8" r="1.6"/><circle cx="221.7" cy="737.2" r="1.6"/><circle cx="220.6" cy="722.6" r="1.6"/><circle cx="190.1" cy="740.0" r="1.6"/><circle cx="220.2" cy="722.1" r="1.6"/><circle cx="228.7" cy="740.8" r="1.6"/><circle cx="215.8" cy="719.4" r="1.6"/><circle cx="226.4" cy="743.4" r="1.6"/><circle cx="217.6" cy="753.6" r="1.6"/><circle cx="211.5" cy="711.6" r="1.6"/><circle cx="230.3" cy="734.9" r="1.6"/><circle cx="203.4" cy="716.0" r="1.6"/><circle cx="225.9" cy="738.3" r="1.6"/><circle cx="234.0" cy="741.4" r="1.6"/><circle cx="230.8" cy="739.6" r="1.6"/><circle cx="229.1" cy="721.3" r="1.6"/><circle cx="216.1" cy="716.5" r="1.6"/><circle cx="192.7" cy="749.9" r="1.6"/><circle cx="220.7" cy="740.8" r="1.6"/><circle cx="187.7" cy="734.6" r="1.6"/><circle cx="187.6" cy="747.3" r="1.6"/><circle cx="199.8" cy="720.3" r="1.6"/><circle cx="186.0" cy="729.2" r="1.6"/><circle cx="194.0" cy="744.5" r="1.6"/><circle cx="230.6" cy="732.3" r="1.6"/><circle cx="195.2" cy="741.2" r="1.6"/><circle cx="207.3" cy="708.5" r="1.6"/><circle cx="195.8" cy="741.3" r="1.6"/><circle cx="210.6" cy="709.7" r="1.6"/><circle cx="196.3" cy="719.0" r="1.6"/><circle cx="186.3" cy="748.8" r="1.6"/><circle cx="193.3" cy="740.4" r="1.6"/><circle cx="219.5" cy="743.9" r="1.6"/><circle cx="191.5" cy="725.2" r="1.6"/><circle cx="210.3" cy="718.5" r="1.6"/><circle cx="223.0" cy="739.1" r="1.6"/><circle cx="214.7" cy="716.0" r="1.6"/><circle cx="184.6" cy="722.5" r="1.6"/><circle cx="206.7" cy="717.8" r="1.6"/><circle cx="198.7" cy="747.1" r="1.6"/><circle cx="215.0" cy="747.1" r="1.6"/><circle cx="190.3" cy="749.9" r="1.6"/><circle cx="214.4" cy="710.4" r="1.6"/><circle cx="200.1" cy="757.6" r="1.6"/><circle cx="232.9" cy="741.0" r="1.6"/><circle cx="199.4" cy="754.1" r="1.6"/></g>
+  <g fill="#a9c1cc"><circle cx="169.1" cy="707.0" r="2.4"/><circle cx="67.4" cy="750.6" r="2.4"/><circle cx="179.0" cy="749.8" r="2.4"/><circle cx="61.9" cy="756.9" r="2.4"/><circle cx="163.5" cy="795.2" r="2.4"/><circle cx="33.0" cy="704.0" r="2.4"/><circle cx="126.4" cy="725.1" r="2.4"/><circle cx="109.5" cy="817.6" r="2.4"/><circle cx="35.5" cy="714.2" r="2.4"/><circle cx="190.8" cy="758.9" r="2.4"/><circle cx="165.8" cy="740.2" r="2.4"/><circle cx="213.4" cy="676.2" r="2.4"/><circle cx="189.8" cy="687.9" r="2.4"/><circle cx="201.7" cy="705.6" r="2.4"/><circle cx="141.9" cy="632.4" r="2.4"/><circle cx="107.8" cy="766.2" r="2.4"/><circle cx="154.2" cy="704.9" r="2.4"/><circle cx="174.7" cy="650.3" r="2.4"/><circle cx="65.8" cy="795.2" r="2.4"/><circle cx="162.4" cy="730.5" r="2.4"/><circle cx="128.7" cy="756.5" r="2.4"/><circle cx="218.4" cy="730.7" r="2.4"/><circle cx="103.9" cy="713.9" r="2.4"/><circle cx="156.8" cy="655.3" r="2.4"/></g>
+  <circle cx="142" cy="686" r="5.5" fill="#a9c1cc"/>
+  <circle cx="208" cy="734" r="4" fill="#e6e0d4"/>
+  <rect x="254" y="52" width="646" height="836" rx="14" fill="#12100e"/>
+  <rect x="276" y="104" width="610" height="140" rx="70" fill="#0e0c0b" stroke="#e6e0d4" stroke-width="4"/>
+  <rect x="310" y="86" width="88" height="34" rx="17" fill="#0e0c0b" stroke="#e6e0d4" stroke-width="2.5"/>
+  <text x="354.0" y="108" font-size="14" font-weight="800" fill="#f1ebe2" text-anchor="middle" letter-spacing="1">ALEX</text>
+  <rect x="406" y="86" width="116" height="34" rx="17" fill="#0e0c0b" stroke="#e6e0d4" stroke-width="2.5"/>
+  <text x="464.0" y="108" font-size="14" font-weight="800" fill="#f1ebe2" text-anchor="middle" letter-spacing="1">GRP2601</text>
+  <text x="316" y="224" font-size="112" font-weight="900" fill="#f1ebe2" textLength="172" lengthAdjust="spacingAndGlyphs">HO</text>
+  <g transform="rotate(-8 546 182)"><text x="496" y="216" font-size="112" font-weight="900" fill="#a9c1cc" textLength="100" lengthAdjust="spacingAndGlyphs">M</text></g>
+  <text x="602" y="224" font-size="112" font-weight="900" fill="#f1ebe2" textLength="76" lengthAdjust="spacingAndGlyphs">E</text>
+  <text x="766" y="172" font-size="44" font-weight="500" fill="#f1ebe2" textLength="92" lengthAdjust="spacingAndGlyphs">282</text>
+  <line x1="764" y1="186" x2="860" y2="186" stroke="#f1ebe2" stroke-width="3"/>
+  <text x="766" y="228" font-size="44" font-weight="500" fill="#f1ebe2" textLength="92" lengthAdjust="spacingAndGlyphs">365</text>
+  <rect x="276" y="262" width="270" height="190" rx="24" fill="#a9c1cc" stroke="#cddbe1" stroke-width="3"/>
+  <text x="298" y="342" font-size="76" font-weight="700" fill="#1c2b33" textLength="226" lengthAdjust="spacingAndGlyphs">00:01</text>
+  <line x1="292" y1="360" x2="530" y2="360" stroke="#1c2b33" stroke-width="3"/>
+  <text x="411" y="392" font-size="22" font-weight="800" fill="#1c2b33" text-anchor="middle">FRI · 9 OCT</text>
+  <line x1="292" y1="406" x2="530" y2="406" stroke="#1c2b33" stroke-width="3"/>
+  <text x="294" y="437" font-size="18" font-weight="800" fill="#1c2b33">DAY 282</text>
   <clipPath id="bar"><rect x="384" y="417" width="146" height="26" rx="13"/></clipPath>
-  <g clip-path="url(#bar)"><rect x="384" y="417" width="146" height="26" rx="0" fill="#a9d8f4"/><rect x="384" y="417" width="110" height="26" rx="0" fill="#d4e57b"/><g stroke="#0d2b4a" stroke-width="2"><line x1="389" y1="417" x2="389" y2="443"/><line x1="394" y1="417" x2="394" y2="443"/><line x1="399" y1="417" x2="399" y2="443"/><line x1="404" y1="417" x2="404" y2="443"/><line x1="409" y1="417" x2="409" y2="443"/><line x1="414" y1="417" x2="414" y2="443"/><line x1="419" y1="417" x2="419" y2="443"/><line x1="424" y1="417" x2="424" y2="443"/><line x1="429" y1="417" x2="429" y2="443"/><line x1="434" y1="417" x2="434" y2="443"/><line x1="439" y1="417" x2="439" y2="443"/><line x1="444" y1="417" x2="444" y2="443"/><line x1="449" y1="417" x2="449" y2="443"/><line x1="454" y1="417" x2="454" y2="443"/><line x1="459" y1="417" x2="459" y2="443"/><line x1="464" y1="417" x2="464" y2="443"/><line x1="469" y1="417" x2="469" y2="443"/><line x1="474" y1="417" x2="474" y2="443"/><line x1="479" y1="417" x2="479" y2="443"/><line x1="484" y1="417" x2="484" y2="443"/><line x1="489" y1="417" x2="489" y2="443"/></g></g>
-  <rect x="384" y="417" width="146" height="26" rx="13" fill="none" stroke="#0d2b4a" stroke-width="2.5"/>
-  <rect x="558" y="262" width="158" height="190" rx="24" fill="#161616"/>
-  <text x="576" y="292" font-size="11" font-weight="700" fill="#9a9a9a" letter-spacing="2">NOTES ·</text>
-  <text x="576" y="309" font-size="11" font-weight="700" fill="#9a9a9a" letter-spacing="2">OCT</text>
-  <circle cx="690" cy="288" r="4" fill="#fff"/>
-  <text x="698" y="309" font-size="11" font-weight="600" fill="#bdbdbd" text-anchor="end" letter-spacing="1">lectures</text>
-  <circle cx="637.5" cy="334" r="9" fill="none" stroke="#7cc4ef" stroke-width="2"/>
-  <circle cx="637.5" cy="334" r="5.5" fill="#7cc4ef"/>
-  <circle cx="656.0" cy="334" r="7.5" fill="#2c2c2c"/>
-  <circle cx="674.5" cy="334" r="7.5" fill="#2c2c2c"/>
-  <circle cx="693.0" cy="334" r="7.5" fill="#2c2c2c"/>
-  <circle cx="582.0" cy="356" r="7.5" fill="#2c2c2c"/>
-  <circle cx="600.5" cy="356" r="7.5" fill="#2c2c2c"/>
-  <circle cx="619.0" cy="356" r="7.5" fill="#2c2c2c"/>
-  <circle cx="637.5" cy="356" r="7.5" fill="#2c2c2c"/>
-  <circle cx="656.0" cy="356" r="7.5" fill="#2c2c2c"/>
-  <circle cx="674.5" cy="356" r="7.5" fill="#2c2c2c"/>
-  <circle cx="693.0" cy="356" r="7.5" fill="#2c2c2c"/>
-  <circle cx="582.0" cy="378" r="7.5" fill="#2c2c2c"/>
-  <circle cx="600.5" cy="378" r="7.5" fill="#2c2c2c"/>
-  <circle cx="619.0" cy="378" r="7.5" fill="#2c2c2c"/>
-  <circle cx="637.5" cy="378" r="7.5" fill="#2c2c2c"/>
-  <circle cx="656.0" cy="378" r="7.5" fill="#2c2c2c"/>
-  <circle cx="674.5" cy="378" r="7.5" fill="#2c2c2c"/>
-  <circle cx="693.0" cy="378" r="7.5" fill="#2c2c2c"/>
-  <circle cx="582.0" cy="400" r="7.5" fill="#2c2c2c"/>
-  <circle cx="600.5" cy="400" r="7.5" fill="#2c2c2c"/>
-  <circle cx="619.0" cy="400" r="7.5" fill="#2c2c2c"/>
-  <circle cx="637.5" cy="400" r="7.5" fill="#2c2c2c"/>
-  <circle cx="656.0" cy="400" r="7.5" fill="#2c2c2c"/>
-  <circle cx="674.5" cy="400" r="7.5" fill="#2c2c2c"/>
-  <circle cx="693.0" cy="400" r="7.5" fill="#2c2c2c"/>
-  <circle cx="582.0" cy="422" r="7.5" fill="#2c2c2c"/>
-  <circle cx="600.5" cy="422" r="7.5" fill="#2c2c2c"/>
-  <circle cx="619.0" cy="422" r="7.5" fill="#2c2c2c"/>
-  <circle cx="637.5" cy="422" r="7.5" fill="#2c2c2c"/>
-  <circle cx="656.0" cy="422" r="7.5" fill="#2c2c2c"/>
-  <circle cx="674.5" cy="422" r="7.5" fill="#2c2c2c"/>
-  <rect x="728" y="262" width="158" height="190" rx="24" fill="#d4e57b"/>
-  <text x="746" y="294" font-size="11" font-weight="700" fill="#fff" letter-spacing="2" fill-opacity=".9">NEXT B-DAY</text>
-  <text x="744" y="394" font-size="86" font-weight="900" fill="#fff" textLength="98" lengthAdjust="spacingAndGlyphs">22</text>
-  <text x="746" y="434" font-size="17" font-weight="700" fill="#fff">days · Маша</text>
-  <rect x="276" y="468" width="300" height="300" rx="24" fill="#ececec"/>
-  <circle cx="300" cy="499" r="6" fill="#111"/>
-  <text x="314" y="505" font-size="18" font-weight="800" fill="#111">STUDY</text>
-  <text x="558" y="504" font-size="11" font-weight="600" fill="#555" text-anchor="end" letter-spacing="1.5">1/9 THIS WEEK</text>
-  <circle cx="300" cy="548" r="9.5" fill="none" stroke="#9a9a9a" stroke-width="2"/>
-  <text x="322" y="542" font-size="16" font-weight="800" fill="#111">Вышмат</text>
-  <text x="322" y="564" font-size="12.5" font-weight="500" fill="#666">Лекция 02.09 · Практика 04.09</text>
-  <circle cx="552" cy="550" r="13" fill="#111"/>
-  <text x="552" y="555" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">1</text>
-  <circle cx="300" cy="604" r="9.5" fill="none" stroke="#9a9a9a" stroke-width="2"/>
-  <text x="322" y="598" font-size="16" font-weight="800" fill="#111">Физика</text>
-  <text x="322" y="620" font-size="12.5" font-weight="500" fill="#666">Лабораторная 1 · 18 SEP</text>
-  <circle cx="552" cy="606" r="13" fill="#111"/>
-  <text x="552" y="611" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">2</text>
-  <circle cx="300" cy="660" r="10" fill="#111"/><path d="M295.5 660 L298.5 663 L304.5 656.5" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="322" y="654" font-size="16" font-weight="800" fill="#111">Электротехника</text>
-  <text x="322" y="676" font-size="12.5" font-weight="500" fill="#666">Вопросы · yesterday</text>
-  <circle cx="552" cy="662" r="13" fill="#111"/>
-  <text x="552" y="667" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">3</text>
-  <circle cx="300" cy="716" r="9.5" fill="none" stroke="#9a9a9a" stroke-width="2"/>
-  <text x="322" y="710" font-size="16" font-weight="800" fill="#111">ТерВер</text>
-  <text x="322" y="732" font-size="12.5" font-weight="500" fill="#666">Лекция 03.09 · 18 SEP</text>
-  <circle cx="552" cy="718" r="13" fill="#111"/>
-  <text x="552" y="723" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">4</text>
-  <rect x="588" y="468" width="298" height="300" rx="24" fill="#161616"/>
-  <circle cx="612" cy="499" r="6" fill="#fff"/>
-  <text x="626" y="505" font-size="18" font-weight="800" fill="#fff">RECENT</text>
-  <rect x="606" y="538" width="40" height="24" rx="12" fill="#e6e6e6"/>
-  <text x="626" y="554" font-size="11" font-weight="800" fill="#111" text-anchor="middle">LAB</text>
-  <text x="658" y="542" font-size="15" font-weight="800" fill="#fff">02 - Лабораторная</text>
-  <text x="658" y="564" font-size="12" font-weight="500" fill="#8a8a8a">Электротехника · yesterday</text>
-  <rect x="606" y="594" width="40" height="24" rx="12" fill="#d4e57b"/>
-  <text x="626" y="610" font-size="11" font-weight="800" fill="#111" text-anchor="middle">PRA</text>
-  <text x="658" y="598" font-size="15" font-weight="800" fill="#fff">01 - Практика 02.09</text>
-  <text x="658" y="620" font-size="12" font-weight="500" fill="#8a8a8a">Экономика · 18 SEP</text>
-  <rect x="606" y="650" width="40" height="24" rx="12" fill="#7cc4ef"/>
-  <text x="626" y="666" font-size="11" font-weight="800" fill="#0d2b4a" text-anchor="middle">LEC</text>
-  <text x="658" y="654" font-size="15" font-weight="800" fill="#fff">01 - Лекция 03.09</text>
-  <text x="658" y="676" font-size="12" font-weight="500" fill="#8a8a8a">ТерВер · 18 SEP</text>
-  <rect x="606" y="706" width="40" height="24" rx="12" fill="#7cc4ef"/>
-  <text x="626" y="722" font-size="11" font-weight="800" fill="#0d2b4a" text-anchor="middle">LEC</text>
-  <text x="658" y="710" font-size="15" font-weight="800" fill="#fff">02 - Лекция 05.09</text>
-  <text x="658" y="732" font-size="12" font-weight="500" fill="#8a8a8a">Вышмат · 18 SEP</text>
-  <rect x="906" y="52" width="288" height="716" rx="14" fill="#0a0a0a"/>
-  <rect x="918" y="62" width="264" height="226" rx="22" fill="#161616" stroke="#262626"/>
-  <circle cx="958" cy="110" r="33" fill="none" stroke="#7cc4ef" stroke-width="2"/>
-  <circle cx="958" cy="110" r="28" fill="#7cc4ef"/>
-  <g fill="none" stroke="#0d2b4a" stroke-width="2.4" stroke-linejoin="round"><rect x="945" y="97" width="26" height="8" rx="2"/><rect x="948" y="105" width="20" height="17" rx="2"/><path d="M954 111 h8" stroke-linecap="round"/></g>
-  <text x="1000" y="102" font-size="16" font-weight="900" fill="#fff" textLength="168" lengthAdjust="spacingAndGlyphs">Хранитель архива</text>
-  <text x="1000" y="121" font-size="12" font-weight="600" fill="#d4e57b" font-style="italic">коллекция как музей</text>
-  <text x="1000" y="139" font-size="11.5" font-weight="500" fill="#9a9a9a">LVL 10/14 · 323 фильма</text>
-  <rect x="932" y="158" width="236" height="7" rx="3.5" fill="#2a2a2a"/><rect x="932" y="158" width="72" height="7" rx="3.5" fill="#d4e57b"/>
-  <text x="932" y="185" font-size="11.5" fill="#bdbdbd">ещё <tspan font-weight="800" fill="#fff">77</tspan> до «Режиссёр в душе»</text>
-  <circle cx="945" cy="214" r="15" fill="#d4e57b"/>
-  <rect x="940" y="209" width="10" height="10" rx="2.5" fill="none" stroke="#1a1a1a" stroke-width="1.8"/>
-  <circle cx="980" cy="214" r="15" fill="#d4e57b"/>
-  <circle cx="980" cy="214" r="5" fill="none" stroke="#1a1a1a" stroke-width="1.8"/>
-  <circle cx="1015" cy="214" r="15" fill="#d4e57b"/>
-  <path d="M1015 208 L1020.5 218.5 L1009.5 218.5 Z" fill="none" stroke="#1a1a1a" stroke-width="1.8" stroke-linejoin="round"/>
-  <circle cx="1050" cy="214" r="15" fill="#d4e57b"/>
-  <rect x="1045" y="209" width="10" height="10" rx="2.5" fill="none" stroke="#1a1a1a" stroke-width="1.8"/>
-  <circle cx="1085" cy="214" r="15" fill="#d4e57b"/>
-  <circle cx="1085" cy="214" r="5" fill="none" stroke="#1a1a1a" stroke-width="1.8"/>
-  <circle cx="1120" cy="214" r="15" fill="#d4e57b"/>
-  <path d="M1120 208 L1125.5 218.5 L1114.5 218.5 Z" fill="none" stroke="#1a1a1a" stroke-width="1.8" stroke-linejoin="round"/>
-  <circle cx="1155" cy="214" r="15" fill="#d4e57b"/>
-  <rect x="1150" y="209" width="10" height="10" rx="2.5" fill="none" stroke="#1a1a1a" stroke-width="1.8"/>
-  <circle cx="945" cy="252" r="15" fill="#d4e57b"/>
-  <circle cx="945" cy="252" r="5" fill="none" stroke="#1a1a1a" stroke-width="1.8"/>
-  <circle cx="980" cy="252" r="15" fill="#d4e57b"/>
-  <path d="M980 246 L985.5 256.5 L974.5 256.5 Z" fill="none" stroke="#1a1a1a" stroke-width="1.8" stroke-linejoin="round"/>
-  <circle cx="1015" cy="252" r="17.5" fill="none" stroke="#7cc4ef" stroke-width="1.8"/>
-  <circle cx="1015" cy="252" r="15" fill="#7cc4ef"/>
-  <rect x="1010" y="247" width="10" height="10" rx="2.5" fill="none" stroke="#0d2b4a" stroke-width="1.8"/>
-  <circle cx="1050" cy="252" r="15" fill="#262626"/>
-  <circle cx="1050" cy="252" r="5" fill="none" stroke="#555" stroke-width="1.8"/>
-  <circle cx="1085" cy="252" r="15" fill="#262626"/>
-  <path d="M1085 246 L1090.5 256.5 L1079.5 256.5 Z" fill="none" stroke="#555" stroke-width="1.8" stroke-linejoin="round"/>
-  <circle cx="1120" cy="252" r="15" fill="#262626"/>
-  <rect x="1115" y="247" width="10" height="10" rx="2.5" fill="none" stroke="#555" stroke-width="1.8"/>
-  <circle cx="1155" cy="252" r="15" fill="#262626"/>
-  <circle cx="1155" cy="252" r="5" fill="none" stroke="#555" stroke-width="1.8"/>
-  <rect x="918" y="300" width="128" height="80" rx="20" fill="#7cc4ef"/>
-  <text x="934" y="340" font-size="30" font-weight="900" fill="#0d2b4a">323</text>
-  <text x="934" y="362" font-size="11.5" font-weight="600" fill="#0d2b4a">фильмов</text>
-  <rect x="1054" y="300" width="128" height="80" rx="20" fill="#d4e57b"/>
-  <text x="1070" y="340" font-size="30" font-weight="900" fill="#111">16</text>
-  <text x="1070" y="362" font-size="11.5" font-weight="600" fill="#111">сериалов</text>
-  <rect x="918" y="388" width="128" height="80" rx="20" fill="#ececec"/>
-  <text x="934" y="428" font-size="30" font-weight="900" fill="#111">7.8</text>
-  <text x="934" y="450" font-size="11.5" font-weight="600" fill="#111">ср. рейтинг</text>
-  <rect x="1054" y="388" width="128" height="80" rx="20" fill="#161616"/>
-  <text x="1070" y="428" font-size="30" font-weight="900" fill="#fff">33</text>
-  <text x="1070" y="450" font-size="11.5" font-weight="600" fill="#fff">жанров</text>
-  <rect x="918" y="480" width="264" height="80" rx="20" fill="#161616"/>
-  <text x="934" y="503" font-size="10" font-weight="700" fill="#8a8a8a" letter-spacing="2">СЛЕДУЮЩИЙ</text>
-  <text x="934" y="532" font-size="24" font-weight="900" fill="#fff">№272</text>
-  <text x="934" y="550" font-size="11" font-weight="500" fill="#9a9a9a">заполнит пропуск</text>
-  <circle cx="1150" cy="520" r="24" fill="none" stroke="#2a2a2a" stroke-width="4"/>
-  <circle cx="1150" cy="520" r="24" fill="none" stroke="#d4e57b" stroke-width="4" stroke-linecap="round" stroke-dasharray="81.4 150.8" transform="rotate(-90 1150 520)"/>
-  <text x="1150" y="522" font-size="14" font-weight="800" fill="#fff" text-anchor="middle">27</text>
-  <text x="1150" y="534" font-size="8.5" font-weight="500" fill="#8a8a8a" text-anchor="middle">/ 50</text>
-  <rect x="918" y="572" width="80" height="30" rx="15" fill="#7cc4ef"/>
-  <text x="958.0" y="592" font-size="12.5" font-weight="800" fill="#0d2b4a" text-anchor="middle">+ Фильм</text>
-  <rect x="1006" y="572" width="92" height="30" rx="15" fill="#d4e57b"/>
-  <text x="1052.0" y="592" font-size="12.5" font-weight="800" fill="#111" text-anchor="middle">+ Сериал</text>
-  <rect x="1106" y="572" width="60" height="30" rx="15" fill="none" stroke="#e6e6e6" stroke-width="1.8"/>
-  <text x="1136.0" y="592" font-size="12.5" font-weight="800" fill="#fff" text-anchor="middle">Base</text>
-  <rect x="918" y="610" width="134" height="30" rx="15" fill="none" stroke="#e6e6e6" stroke-width="1.8"/>
-  <text x="985.0" y="630" font-size="12.5" font-weight="800" fill="#fff" text-anchor="middle">Обновить из КП</text>
-  <rect x="1060" y="610" width="106" height="30" rx="15" fill="none" stroke="#e6e6e6" stroke-width="1.8"/>
-  <text x="1113.0" y="630" font-size="12.5" font-weight="800" fill="#fff" text-anchor="middle">Дубликаты</text>
-  <rect x="918" y="652" width="264" height="116" rx="20" fill="#161616"/>
-  <circle cx="936" cy="676" r="4.5" fill="#fff"/>
-  <text x="948" y="680" font-size="11" font-weight="800" fill="#fff" letter-spacing="2">ФИЛЬМ ДНЯ</text>
-  <linearGradient id="poster" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7cc4ef"/><stop offset="1" stop-color="#0d2b4a"/></linearGradient>
-  <rect x="934" y="690" width="52" height="68" rx="6" fill="url(#poster)"/>
-  <circle cx="960" cy="716" r="12" fill="none" stroke="#fff" stroke-opacity=".7" stroke-width="1.5"/>
-  <circle cx="960" cy="716" r="4" fill="#fff" fill-opacity=".8"/>
-  <text x="998" y="708" font-size="15" font-weight="800" fill="#fff">Интерстеллар</text>
-  <text x="998" y="726" font-size="11" font-weight="500" fill="#9a9a9a">2014 · ★ 8.6 · фантастика</text>
-  <text x="998" y="744" font-size="10.5" font-weight="500" fill="#6f6f6f">Экспедиция ищет новый</text>
-  <text x="998" y="758" font-size="10.5" font-weight="500" fill="#6f6f6f">дом для человечества</text>
+  <g clip-path="url(#bar)"><rect x="384" y="417" width="146" height="26" rx="0" fill="#cddbe1"/><rect x="384" y="417" width="113" height="26" rx="0" fill="#c2bba5"/><g stroke="#1c2b33" stroke-width="2"><line x1="389" y1="417" x2="389" y2="443"/><line x1="394" y1="417" x2="394" y2="443"/><line x1="399" y1="417" x2="399" y2="443"/><line x1="404" y1="417" x2="404" y2="443"/><line x1="409" y1="417" x2="409" y2="443"/><line x1="414" y1="417" x2="414" y2="443"/><line x1="419" y1="417" x2="419" y2="443"/><line x1="424" y1="417" x2="424" y2="443"/><line x1="429" y1="417" x2="429" y2="443"/><line x1="434" y1="417" x2="434" y2="443"/><line x1="439" y1="417" x2="439" y2="443"/><line x1="444" y1="417" x2="444" y2="443"/><line x1="449" y1="417" x2="449" y2="443"/><line x1="454" y1="417" x2="454" y2="443"/><line x1="459" y1="417" x2="459" y2="443"/><line x1="464" y1="417" x2="464" y2="443"/><line x1="469" y1="417" x2="469" y2="443"/><line x1="474" y1="417" x2="474" y2="443"/><line x1="479" y1="417" x2="479" y2="443"/><line x1="484" y1="417" x2="484" y2="443"/><line x1="489" y1="417" x2="489" y2="443"/><line x1="494" y1="417" x2="494" y2="443"/></g></g>
+  <rect x="384" y="417" width="146" height="26" rx="13" fill="none" stroke="#1c2b33" stroke-width="2.5"/>
+  <rect x="558" y="262" width="158" height="190" rx="24" fill="#1e1a18"/>
+  <text x="576" y="292" font-size="11" font-weight="700" fill="#9a9188" letter-spacing="2">NOTES ·</text>
+  <text x="576" y="309" font-size="11" font-weight="700" fill="#9a9188" letter-spacing="2">OCT</text>
+  <circle cx="690" cy="288" r="4" fill="#f1ebe2"/>
+  <text x="698" y="309" font-size="11" font-weight="600" fill="#9a9188" text-anchor="end" letter-spacing="1">lectures</text>
+  <circle cx="637.5" cy="334" r="7.5" fill="#2e2925"/>
+  <circle cx="656.0" cy="334" r="7.5" fill="#c2bba5"/>
+  <circle cx="674.5" cy="334" r="7.5" fill="#c2bba5"/>
+  <circle cx="693.0" cy="334" r="7.5" fill="#2e2925"/>
+  <circle cx="582.0" cy="356" r="7.5" fill="#c2bba5"/>
+  <circle cx="600.5" cy="356" r="7.5" fill="#c2bba5"/>
+  <circle cx="619.0" cy="356" r="7.5" fill="#c2bba5"/>
+  <circle cx="637.5" cy="356" r="7.5" fill="#2e2925"/>
+  <circle cx="656.0" cy="356" r="9" fill="none" stroke="#a9c1cc" stroke-width="2"/>
+  <circle cx="656.0" cy="356" r="5.5" fill="#a9c1cc"/>
+  <circle cx="674.5" cy="356" r="7.5" fill="#2e2925"/>
+  <circle cx="693.0" cy="356" r="7.5" fill="#2e2925"/>
+  <circle cx="582.0" cy="378" r="7.5" fill="#2e2925"/>
+  <circle cx="600.5" cy="378" r="7.5" fill="#2e2925"/>
+  <circle cx="619.0" cy="378" r="7.5" fill="#2e2925"/>
+  <circle cx="637.5" cy="378" r="7.5" fill="#2e2925"/>
+  <circle cx="656.0" cy="378" r="7.5" fill="#2e2925"/>
+  <circle cx="674.5" cy="378" r="7.5" fill="#2e2925"/>
+  <circle cx="693.0" cy="378" r="7.5" fill="#2e2925"/>
+  <circle cx="582.0" cy="400" r="7.5" fill="#2e2925"/>
+  <circle cx="600.5" cy="400" r="7.5" fill="#2e2925"/>
+  <circle cx="619.0" cy="400" r="7.5" fill="#2e2925"/>
+  <circle cx="637.5" cy="400" r="7.5" fill="#2e2925"/>
+  <circle cx="656.0" cy="400" r="7.5" fill="#2e2925"/>
+  <circle cx="674.5" cy="400" r="7.5" fill="#2e2925"/>
+  <circle cx="693.0" cy="400" r="7.5" fill="#2e2925"/>
+  <circle cx="582.0" cy="422" r="7.5" fill="#2e2925"/>
+  <circle cx="600.5" cy="422" r="7.5" fill="#2e2925"/>
+  <circle cx="619.0" cy="422" r="7.5" fill="#2e2925"/>
+  <circle cx="637.5" cy="422" r="7.5" fill="#2e2925"/>
+  <circle cx="656.0" cy="422" r="7.5" fill="#2e2925"/>
+  <circle cx="674.5" cy="422" r="7.5" fill="#2e2925"/>
+  <rect x="728" y="262" width="158" height="190" rx="24" fill="#8a6a58"/>
+  <text x="746" y="294" font-size="11" font-weight="700" fill="#f1ebe2" letter-spacing="2" fill-opacity=".85">NEXT B-DAY</text>
+  <text x="744" y="394" font-size="86" font-weight="900" fill="#f1ebe2" textLength="98" lengthAdjust="spacingAndGlyphs">14</text>
+  <text x="746" y="434" font-size="17" font-weight="700" fill="#f1ebe2">days · Маша</text>
+  <rect x="276" y="468" width="610" height="96" rx="24" fill="#c2bba5"/>
+  <circle cx="300" cy="497" r="6" fill="#2b251f"/>
+  <text x="314" y="503" font-size="18" font-weight="800" fill="#2b251f">PROJECTS</text>
+  <text x="866" y="502" font-size="11" font-weight="700" fill="#5a5145" text-anchor="end" letter-spacing="1.5">1 ACTIVE</text>
+  <rect x="292" y="518" width="32" height="32" rx="9" fill="#2b251f"/>
+  <text x="308" y="540" font-size="16" font-weight="900" fill="#c2bba5" text-anchor="middle">C</text>
+  <text x="336" y="532" font-size="17" font-weight="800" fill="#2b251f">Campus</text>
+  <text x="336" y="550" font-size="12" font-weight="500" fill="#5a5145">04 - Workspace · обновлён сегодня</text>
+  <rect x="764" y="521" width="102" height="26" rx="13" fill="#2b251f"/>
+  <text x="815" y="538" font-size="10.5" font-weight="800" fill="#c2bba5" text-anchor="middle" letter-spacing="1">IN PROGRESS</text>
+  <rect x="276" y="580" width="300" height="308" rx="24" fill="#e6e0d4"/>
+  <circle cx="300" cy="611" r="6" fill="#1e1a17"/>
+  <text x="314" y="617" font-size="18" font-weight="800" fill="#1e1a17">STUDY</text>
+  <text x="558" y="616" font-size="11" font-weight="600" fill="#6b645b" text-anchor="end" letter-spacing="1.5">1/9 THIS WEEK</text>
+  <circle cx="300" cy="660" r="9.5" fill="none" stroke="#8f877d" stroke-width="2"/>
+  <text x="322" y="654" font-size="16" font-weight="800" fill="#1e1a17">Вышмат</text>
+  <text x="322" y="676" font-size="12.5" font-weight="500" fill="#6b645b">Лекция 02.09 · Практика 04.09</text>
+  <circle cx="552" cy="662" r="13" fill="#1e1a17"/>
+  <text x="552" y="667" font-size="13" font-weight="800" fill="#e6e0d4" text-anchor="middle">1</text>
+  <circle cx="300" cy="716" r="9.5" fill="none" stroke="#8f877d" stroke-width="2"/>
+  <text x="322" y="710" font-size="16" font-weight="800" fill="#1e1a17">Физика</text>
+  <text x="322" y="732" font-size="12.5" font-weight="500" fill="#6b645b">Лабораторная 1 · 18 SEP</text>
+  <circle cx="552" cy="718" r="13" fill="#1e1a17"/>
+  <text x="552" y="723" font-size="13" font-weight="800" fill="#e6e0d4" text-anchor="middle">2</text>
+  <circle cx="300" cy="772" r="10" fill="#1e1a17"/><path d="M295.5 772 L298.5 775 L304.5 768.5" fill="none" stroke="#e6e0d4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="322" y="766" font-size="16" font-weight="800" fill="#1e1a17">Электротехника</text>
+  <text x="322" y="788" font-size="12.5" font-weight="500" fill="#6b645b">Вопросы · yesterday</text>
+  <circle cx="552" cy="774" r="13" fill="#1e1a17"/>
+  <text x="552" y="779" font-size="13" font-weight="800" fill="#e6e0d4" text-anchor="middle">3</text>
+  <circle cx="300" cy="828" r="9.5" fill="none" stroke="#8f877d" stroke-width="2"/>
+  <text x="322" y="822" font-size="16" font-weight="800" fill="#1e1a17">ТерВер</text>
+  <text x="322" y="844" font-size="12.5" font-weight="500" fill="#6b645b">Лекция 03.09 · 18 SEP</text>
+  <circle cx="552" cy="830" r="13" fill="#1e1a17"/>
+  <text x="552" y="835" font-size="13" font-weight="800" fill="#e6e0d4" text-anchor="middle">4</text>
+  <rect x="588" y="580" width="298" height="308" rx="24" fill="#1e1a18"/>
+  <circle cx="612" cy="611" r="6" fill="#f1ebe2"/>
+  <text x="626" y="617" font-size="18" font-weight="800" fill="#f1ebe2">RECENT</text>
+  <rect x="606" y="650" width="40" height="24" rx="12" fill="#e6e0d4"/>
+  <text x="626" y="666" font-size="11" font-weight="800" fill="#1e1a17" text-anchor="middle">LAB</text>
+  <text x="658" y="654" font-size="15" font-weight="800" fill="#f1ebe2">02 - Лабораторная</text>
+  <text x="658" y="676" font-size="12" font-weight="500" fill="#9a9188">Электротехника · yesterday</text>
+  <rect x="606" y="706" width="40" height="24" rx="12" fill="#c2bba5"/>
+  <text x="626" y="722" font-size="11" font-weight="800" fill="#2b251f" text-anchor="middle">PRA</text>
+  <text x="658" y="710" font-size="15" font-weight="800" fill="#f1ebe2">01 - Практика 02.09</text>
+  <text x="658" y="732" font-size="12" font-weight="500" fill="#9a9188">Экономика · 18 SEP</text>
+  <rect x="606" y="762" width="40" height="24" rx="12" fill="#a9c1cc"/>
+  <text x="626" y="778" font-size="11" font-weight="800" fill="#1c2b33" text-anchor="middle">LEC</text>
+  <text x="658" y="766" font-size="15" font-weight="800" fill="#f1ebe2">01 - Лекция 03.09</text>
+  <text x="658" y="788" font-size="12" font-weight="500" fill="#9a9188">ТерВер · 18 SEP</text>
+  <rect x="606" y="818" width="40" height="24" rx="12" fill="#a9c1cc"/>
+  <text x="626" y="834" font-size="11" font-weight="800" fill="#1c2b33" text-anchor="middle">LEC</text>
+  <text x="658" y="822" font-size="15" font-weight="800" fill="#f1ebe2">02 - Лекция 05.09</text>
+  <text x="658" y="844" font-size="12" font-weight="500" fill="#9a9188">Вышмат · 18 SEP</text>
+  <rect x="906" y="52" width="288" height="836" rx="14" fill="#161311"/>
+  <rect x="918" y="62" width="264" height="226" rx="22" fill="#1e1a18" stroke="#2b2623"/>
+  <circle cx="958" cy="110" r="33" fill="none" stroke="#a9c1cc" stroke-width="2"/>
+  <circle cx="958" cy="110" r="28" fill="#a9c1cc"/>
+  <g fill="none" stroke="#1c2b33" stroke-width="2.4" stroke-linejoin="round"><rect x="945" y="97" width="26" height="8" rx="2"/><rect x="948" y="105" width="20" height="17" rx="2"/><path d="M954 111 h8" stroke-linecap="round"/></g>
+  <text x="1000" y="102" font-size="16" font-weight="900" fill="#f1ebe2" textLength="168" lengthAdjust="spacingAndGlyphs">Хранитель архива</text>
+  <text x="1000" y="121" font-size="12" font-weight="600" fill="#c2bba5" font-style="italic">коллекция как музей</text>
+  <text x="1000" y="139" font-size="11.5" font-weight="500" fill="#9a9188">LVL 10/14 · 323 фильма</text>
+  <rect x="932" y="158" width="236" height="7" rx="3.5" fill="#2e2925"/><rect x="932" y="158" width="72" height="7" rx="3.5" fill="#c2bba5"/>
+  <text x="932" y="185" font-size="11.5" fill="#9a9188">ещё <tspan font-weight="800" fill="#f1ebe2">77</tspan> до «Режиссёр в душе»</text>
+  <circle cx="945" cy="214" r="15" fill="#c2bba5"/>
+  <rect x="940" y="209" width="10" height="10" rx="2.5" fill="none" stroke="#2b251f" stroke-width="1.8"/>
+  <circle cx="980" cy="214" r="15" fill="#c2bba5"/>
+  <circle cx="980" cy="214" r="5" fill="none" stroke="#2b251f" stroke-width="1.8"/>
+  <circle cx="1015" cy="214" r="15" fill="#c2bba5"/>
+  <path d="M1015 208 L1020.5 218.5 L1009.5 218.5 Z" fill="none" stroke="#2b251f" stroke-width="1.8" stroke-linejoin="round"/>
+  <circle cx="1050" cy="214" r="15" fill="#c2bba5"/>
+  <rect x="1045" y="209" width="10" height="10" rx="2.5" fill="none" stroke="#2b251f" stroke-width="1.8"/>
+  <circle cx="1085" cy="214" r="15" fill="#c2bba5"/>
+  <circle cx="1085" cy="214" r="5" fill="none" stroke="#2b251f" stroke-width="1.8"/>
+  <circle cx="1120" cy="214" r="15" fill="#c2bba5"/>
+  <path d="M1120 208 L1125.5 218.5 L1114.5 218.5 Z" fill="none" stroke="#2b251f" stroke-width="1.8" stroke-linejoin="round"/>
+  <circle cx="1155" cy="214" r="15" fill="#c2bba5"/>
+  <rect x="1150" y="209" width="10" height="10" rx="2.5" fill="none" stroke="#2b251f" stroke-width="1.8"/>
+  <circle cx="945" cy="252" r="15" fill="#c2bba5"/>
+  <circle cx="945" cy="252" r="5" fill="none" stroke="#2b251f" stroke-width="1.8"/>
+  <circle cx="980" cy="252" r="15" fill="#c2bba5"/>
+  <path d="M980 246 L985.5 256.5 L974.5 256.5 Z" fill="none" stroke="#2b251f" stroke-width="1.8" stroke-linejoin="round"/>
+  <circle cx="1015" cy="252" r="17.5" fill="none" stroke="#a9c1cc" stroke-width="1.8"/>
+  <circle cx="1015" cy="252" r="15" fill="#a9c1cc"/>
+  <rect x="1010" y="247" width="10" height="10" rx="2.5" fill="none" stroke="#1c2b33" stroke-width="1.8"/>
+  <circle cx="1050" cy="252" r="15" fill="#2e2925"/>
+  <circle cx="1050" cy="252" r="5" fill="none" stroke="#6e665e" stroke-width="1.8"/>
+  <circle cx="1085" cy="252" r="15" fill="#2e2925"/>
+  <path d="M1085 246 L1090.5 256.5 L1079.5 256.5 Z" fill="none" stroke="#6e665e" stroke-width="1.8" stroke-linejoin="round"/>
+  <circle cx="1120" cy="252" r="15" fill="#2e2925"/>
+  <rect x="1115" y="247" width="10" height="10" rx="2.5" fill="none" stroke="#6e665e" stroke-width="1.8"/>
+  <circle cx="1155" cy="252" r="15" fill="#2e2925"/>
+  <circle cx="1155" cy="252" r="5" fill="none" stroke="#6e665e" stroke-width="1.8"/>
+  <rect x="918" y="300" width="128" height="80" rx="20" fill="#a9c1cc"/>
+  <text x="934" y="340" font-size="30" font-weight="900" fill="#1c2b33">323</text>
+  <text x="934" y="362" font-size="11.5" font-weight="600" fill="#1c2b33">фильмов</text>
+  <rect x="1054" y="300" width="128" height="80" rx="20" fill="#c2bba5"/>
+  <text x="1070" y="340" font-size="30" font-weight="900" fill="#2b251f">16</text>
+  <text x="1070" y="362" font-size="11.5" font-weight="600" fill="#2b251f">сериалов</text>
+  <rect x="918" y="388" width="128" height="80" rx="20" fill="#e6e0d4"/>
+  <text x="934" y="428" font-size="30" font-weight="900" fill="#1e1a17">7.8</text>
+  <text x="934" y="450" font-size="11.5" font-weight="600" fill="#1e1a17">ср. рейтинг</text>
+  <rect x="1054" y="388" width="128" height="80" rx="20" fill="#8a6a58"/>
+  <text x="1070" y="428" font-size="30" font-weight="900" fill="#f1ebe2">33</text>
+  <text x="1070" y="450" font-size="11.5" font-weight="600" fill="#f1ebe2">жанров</text>
+  <rect x="918" y="480" width="264" height="80" rx="20" fill="#1e1a18"/>
+  <text x="934" y="503" font-size="10" font-weight="700" fill="#9a9188" letter-spacing="2">СЛЕДУЮЩИЙ</text>
+  <text x="934" y="532" font-size="24" font-weight="900" fill="#f1ebe2">№272</text>
+  <text x="934" y="550" font-size="11" font-weight="500" fill="#9a9188">заполнит пропуск</text>
+  <circle cx="1150" cy="520" r="24" fill="none" stroke="#2e2925" stroke-width="4"/>
+  <circle cx="1150" cy="520" r="24" fill="none" stroke="#c2bba5" stroke-width="4" stroke-linecap="round" stroke-dasharray="81.4 150.8" transform="rotate(-90 1150 520)"/>
+  <text x="1150" y="522" font-size="14" font-weight="800" fill="#f1ebe2" text-anchor="middle">27</text>
+  <text x="1150" y="534" font-size="8.5" font-weight="500" fill="#9a9188" text-anchor="middle">/ 50</text>
+  <rect x="918" y="572" width="80" height="30" rx="15" fill="#a9c1cc"/>
+  <text x="958.0" y="592" font-size="12.5" font-weight="800" fill="#1c2b33" text-anchor="middle">+ Фильм</text>
+  <rect x="1006" y="572" width="92" height="30" rx="15" fill="#c2bba5"/>
+  <text x="1052.0" y="592" font-size="12.5" font-weight="800" fill="#2b251f" text-anchor="middle">+ Сериал</text>
+  <rect x="1106" y="572" width="60" height="30" rx="15" fill="none" stroke="#e6e0d4" stroke-opacity=".85" stroke-width="1.8"/>
+  <text x="1136.0" y="592" font-size="12.5" font-weight="800" fill="#f1ebe2" text-anchor="middle">Base</text>
+  <rect x="918" y="610" width="134" height="30" rx="15" fill="none" stroke="#e6e0d4" stroke-opacity=".85" stroke-width="1.8"/>
+  <text x="985.0" y="630" font-size="12.5" font-weight="800" fill="#f1ebe2" text-anchor="middle">Обновить из КП</text>
+  <rect x="1060" y="610" width="106" height="30" rx="15" fill="none" stroke="#e6e0d4" stroke-opacity=".85" stroke-width="1.8"/>
+  <text x="1113.0" y="630" font-size="12.5" font-weight="800" fill="#f1ebe2" text-anchor="middle">Дубликаты</text>
+  <rect x="918" y="652" width="264" height="236" rx="20" fill="#1e1a18"/>
+  <circle cx="936" cy="678" r="4.5" fill="#f1ebe2"/>
+  <text x="948" y="682" font-size="11" font-weight="800" fill="#f1ebe2" letter-spacing="2">ФИЛЬМ ДНЯ</text>
+  <rect x="1112" y="666" width="56" height="22" rx="11" fill="none" stroke="#6e665e" stroke-width="1.4"/>
+  <text x="1140" y="681" font-size="10.5" font-weight="600" fill="#9a9188" text-anchor="middle">другой</text>
+  <linearGradient id="poster" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8a6a58"/><stop offset="1" stop-color="#0e0c0b"/></linearGradient>
+  <rect x="934" y="700" width="80" height="112" rx="8" fill="url(#poster)"/>
+  <circle cx="974" cy="744" r="18" fill="none" stroke="#e6e0d4" stroke-opacity=".7" stroke-width="1.5"/>
+  <circle cx="974" cy="744" r="6" fill="#e6e0d4" fill-opacity=".85"/>
+  <text x="1028" y="720" font-size="16" font-weight="800" fill="#f1ebe2">Интерстеллар</text>
+  <text x="1028" y="740" font-size="11.5" font-weight="500" fill="#9a9188">2014 · ★ 8.6</text>
+  <text x="1028" y="758" font-size="11.5" font-weight="500" fill="#9a9188">фантастика, драма</text>
+  <rect x="1028" y="776" width="88" height="24" rx="12" fill="#a9c1cc"/>
+  <text x="1072" y="792" font-size="10.5" font-weight="800" fill="#1c2b33" text-anchor="middle">в коллекцию</text>
+  <text x="934" y="842" font-size="11" font-weight="500" fill="#6e665e">Экспедиция через червоточину</text>
+  <text x="934" y="860" font-size="11" font-weight="500" fill="#6e665e">ищет новый дом для человечества.</text>
   </g>
 </svg>
